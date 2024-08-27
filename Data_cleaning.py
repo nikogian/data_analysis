@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 
 
 df = pd.read_csv('uae_real_estate_2024.csv')
-print(f"Number of rows in uae_real_estate_2024.csv: {df.shape[0]}")
 # Elimination of non verified entries, and droping of non relevant columns
 df = df[df['verified']]
 print(f"Number of True: {df.shape[0]}")
