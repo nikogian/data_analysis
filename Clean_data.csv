@@ -1,0 +1,3272 @@
+bathrooms,bedrooms,price,sizeMin,furnishing,price_per_m2,region
+3,2,600000,122,0,4918,Business Bay
+3,2,1728000,130,1,13292,Jumeirah Beach Residence
+3,4,864000,215,0,4018,Dubai Land
+3,2,719999,153,0,4705,The Springs
+3,3,587999,195,0,3015,Town Square
+7,5,6000000,655,1,9160,Downtown Dubai
+3,2,1195200,101,0,11833,Dubai Marina
+4,3,672000,184,0,3652,Arabian Ranches 3
+3,4,448800,174,0,2579,Damac Hills 2
+1,1,228000,62,1,3677,Al Furjan
+5,5,2399997,368,1,6521,Meadows
+5,3,444000,174,0,2551,Damac Hills 2
+4,3,1318800,204,0,6464,Dubai Marina
+3,2,504000,110,1,4581,Dubai Marina
+4,3,648000,202,0,3207,Arabian Ranches 3
+1,1,234000,60,1,3900,Jumeirah Village Circle
+5,4,708000,237,0,2987,Dubai South (Dubai World Central)
+2,1,478800,84,0,5700,Dubai Marina
+3,2,1800000,189,0,9523,Downtown Dubai
+5,4,5280000,633,0,8341,Palm Jumeirah
+1,0,157680,41,0,3845,Jumeirah Village Circle
+4,2,646080,123,0,5252,Mohammed Bin Rashid City
+6,4,1440000,569,0,2530,The Villa
+3,3,1752000,144,1,12166,Downtown Dubai
+2,1,384000,84,1,4571,Business Bay
+4,3,1367760,251,0,5449,The Springs
+3,2,504000,154,0,3272,Jumeirah Lake Towers
+2,1,840000,89,0,9438,Downtown Dubai
+2,1,215999,57,1,3789,DAMAC Hills
+4,2,429600,115,0,3735,Dubai Silicon Oasis
+3,3,1296000,165,1,7854,Dubai Marina
+6,4,4320000,431,1,10023,Dubai Marina
+5,3,384000,174,0,2206,Damac Hills 2
+4,4,1176000,199,0,5909,Dubai Hills Estate
+4,3,2088000,173,0,12069,Jumeirah Beach Residence
+2,2,672000,103,0,6524,Business Bay
+2,1,570000,87,1,6551,Al Kifaf
+1,0,156000,35,0,4457,Meydan
+2,2,1908000,137,1,13927,Jumeirah Beach Residence
+2,1,504000,82,0,6146,Al Kifaf
+2,2,720000,153,0,4705,The Springs
+2,1,660000,171,0,3859,Jumeirah Beach Residence
+5,4,5520000,483,0,11428,Jumeirah Islands
+4,3,756000,264,0,2863,Mudon
+2,1,305749,87,0,3514,Arjan
+4,3,600000,184,0,3260,Dubai South (Dubai World Central)
+3,2,756000,157,0,4815,The Springs
+3,2,840000,144,0,5833,Dubai Creek Harbour (The Lagoons)
+2,2,624000,100,0,6240,Dubai Creek Harbour (The Lagoons)
+1,1,187200,61,0,3068,Jumeirah Village Circle
+3,2,1092000,249,0,4385,Jumeirah Village Triangle
+3,2,1247760,249,0,5011,Jumeirah Village Triangle
+3,2,1560000,126,0,12380,Downtown Dubai
+5,3,1437600,163,1,8819,Old Town
+2,1,300000,71,1,4225,Jumeirah Village Circle
+4,4,780000,236,0,3305,The Valley
+4,2,528000,119,0,4436,Dubai Marina
+3,3,360000,191,0,1884,Damac Hills 2
+1,1,324000,56,0,5785,Jumeirah Village Circle
+2,2,456000,123,0,3707,Greens
+3,2,816000,166,0,4915,The Springs
+4,2,1080000,250,0,4320,Jumeirah Village Triangle
+4,3,1872000,184,0,10173,Dubai Harbour
+3,3,276000,112,0,2464,Damac Hills 2
+3,3,690000,180,0,3833,Dubai Land
+3,2,1128000,249,0,4530,Jumeirah Village Triangle
+5,4,1560000,525,0,2971,Jumeirah Park
+5,4,984000,234,0,4205,Reem
+2,1,516000,85,0,6070,Dubai Hills Estate
+5,4,1173600,287,0,4089,Mohammed Bin Rashid City
+4,3,564000,144,0,3916,Arabian Ranches 3
+1,1,216000,68,0,3176,Rukan
+2,1,960000,292,0,3287,Al Barari
+5,3,960000,252,1,3809,DAMAC Hills
+2,1,192000,60,0,3200,Town Square
+2,1,636000,77,0,8259,Dubai Marina
+3,2,371999,123,0,3024,DAMAC Hills
+1,1,669600,68,0,9847,Dubai Harbour
+2,1,175200,60,0,2920,Dubai Production City (IMPZ)
+5,4,1464000,280,1,5228,Dubai Marina
+2,1,282000,71,1,3971,Jumeirah Lake Towers
+2,2,1245600,249,0,5002,Jumeirah Village Triangle
+2,2,756000,109,0,6935,Dubai Marina
+3,2,960000,171,0,5614,DIFC
+1,0,208800,43,0,4855,Yas Island
+5,4,1656000,589,0,2811,Al Furjan
+1,0,297600,44,0,6763,Business Bay
+5,3,396000,176,0,2250,Damac Hills 2
+4,4,756000,268,0,2820,Town Square
+4,5,3720000,510,0,7294,Arabian Ranches
+1,0,168000,45,0,3733,Jumeirah Village Circle
+6,5,4740000,566,0,8374,Meadows
+1,0,156000,69,1,2260,Jumeirah Village Circle
+5,4,3240000,394,1,8223,Arabian Ranches
+2,1,287880,56,0,5140,Meydan
+3,3,1356000,212,1,6396,Jumeirah Lake Towers
+6,5,12000000,688,1,17441,Palm Jumeirah
+2,2,876000,119,1,7361,Dubai Harbour
+3,2,3096000,314,0,9859,Old Town
+4,3,660000,184,0,3586,Jumeirah Beach Residence
+5,4,1512000,458,0,3301,Al Barari
+3,3,828000,145,0,5710,Dubai Creek Harbour (The Lagoons)
+3,2,600000,117,1,5128,Jumeirah Beach Residence
+2,2,336000,108,1,3111,Jumeirah Village Circle
+1,1,720000,85,0,8470,Jumeirah Beach Residence
+1,0,168000,28,0,6000,Meydan
+5,4,3959998,510,0,7764,Jumeirah Islands
+1,1,172800,58,1,2979,Jumeirah Village Triangle
+4,3,612000,177,0,3457,Jumeirah Beach Residence
+4,3,804000,189,0,4253,DAMAC Hills
+4,4,2160000,404,0,5346,Arabian Ranches 2
+2,1,240000,63,0,3809,Jumeirah Village Circle
+6,4,4344000,453,0,9589,Dubai Internet City
+2,2,336000,144,0,2333,Jumeirah Village Circle
+7,7,2928000,676,0,4331,DAMAC Hills
+3,2,648000,112,0,5785,Mohammed Bin Rashid City
+3,2,1392000,245,1,5681,Al Barari
+3,4,744000,225,0,3306,Dubai South (Dubai World Central)
+2,1,300000,72,0,4166,Jumeirah Village Circle
+1,1,359760,74,0,4861,The Views
+2,1,204000,87,0,2344,Jumeirah Village Circle
+3,3,612000,137,0,4467,DAMAC Hills
+4,3,4440000,299,0,14849,Jumeirah Beach Residence
+3,3,1870800,308,0,6074,Arabian Ranches
+4,3,1055760,179,0,5898,Dubai Creek Harbour (The Lagoons)
+4,3,1488000,269,0,5531,The Springs
+1,0,108000,34,0,3176,Al Reef
+5,4,816000,323,0,2526,Dubai South (Dubai World Central)
+4,3,516000,140,1,3685,Jumeirah Lake Towers
+1,0,174000,36,1,4833,Jumeirah Lake Towers
+2,2,720000,103,0,6990,Downtown Dubai
+7,6,6960000,798,0,8721,Jumeirah Golf Estates
+2,1,240000,90,1,2666,Jumeirah Lake Towers
+5,5,2040000,585,0,3487,The Villa
+4,3,552000,188,0,2936,The Valley
+5,4,6000000,493,1,12170,Jumeirah Islands
+4,4,1272000,175,1,7268,Jumeirah Beach Residence
+2,1,480000,77,0,6233,Dubai Marina
+4,3,1989600,185,0,10754,Bluewaters
+1,1,1005600,85,0,11830,Bluewaters
+5,5,7560000,845,0,8946,Jumeirah Golf Estates
+1,0,144000,37,1,3891,DAMAC Hills
+4,3,8322000,392,0,21229,Palm Jumeirah
+2,2,187200,106,0,1766,Al Ghadeer
+1,0,190080,40,1,4752,Jumeirah Village Triangle
+2,2,612000,103,1,5941,Dubai Creek Harbour (The Lagoons)
+3,3,840000,141,0,5957,Dubai Creek Harbour (The Lagoons)
+1,0,118800,35,0,3394,Al Reem Island
+1,0,156000,36,0,4333,Arjan
+4,2,1440000,162,1,8888,City Walk
+1,1,376799,76,0,4957,Downtown Dubai
+2,2,328800,101,0,3255,Al Reem Island
+3,2,333600,130,0,2566,Dubai Marina
+4,2,2064000,178,0,11595,Jumeirah Beach Residence
+5,4,816000,215,0,3795,Dubai Land
+2,2,1080000,98,1,11020,Downtown Dubai
+1,0,300000,66,0,4545,Jumeirah Beach Residence
+4,4,2544000,687,0,3703,Jumeirah Golf Estates
+1,1,950400,76,0,12505,Dubai Harbour
+4,3,1512000,158,1,9569,Dubai Harbour
+7,6,2136000,449,0,4757,Damac Lagoons
+6,5,7199976,571,0,12609,Jumeirah Islands
+2,2,684000,154,0,4441,DIFC
+2,1,456000,105,0,4342,DIFC
+3,3,624000,173,1,3606,The Valley
+2,2,720000,191,1,3769,DIFC
+3,2,479999,154,0,3116,Jumeirah Lake Towers
+3,2,431997,141,1,3063,DAMAC Hills
+5,5,720000,322,0,2236,Damac Lagoons
+4,3,540000,180,0,3000,Dubai South (Dubai World Central)
+2,2,240000,86,0,2790,Town Square
+6,5,9600000,800,0,12000,Dubai Hills Estate
+4,3,828000,162,0,5111,Nad Al Sheba
+2,1,372000,74,0,5027,Mohammed Bin Rashid City
+1,1,167760,50,0,3355,Al Reem Island
+4,3,528000,185,0,2854,Dubai South (Dubai World Central)
+2,2,768000,112,0,6857,Jumeirah
+2,1,408000,74,0,5513,Nad Al Sheba
+3,2,696000,139,0,5007,Nad Al Sheba
+1,1,336000,44,0,7636,Dubai Hills Estate
+1,1,516000,72,0,7166,City Walk
+7,5,2108400,537,0,3926,Saadiyat Island
+1,0,109200,49,1,2228,Dubai South (Dubai World Central)
+5,3,456000,174,0,2620,Damac Hills 2
+3,3,696000,221,0,3149,Reem
+2,2,780000,102,0,7647,Dubai Creek Harbour (The Lagoons)
+6,5,5760000,783,0,7356,Palm Jebel Ali
+5,4,720000,236,0,3050,Reem
+2,3,1870800,308,0,6074,Arabian Ranches
+2,1,228000,57,0,4000,Jumeirah Village Circle
+2,1,264000,75,0,3520,Jumeirah Village Circle
+6,5,6600000,653,0,10107,Dubai Hills Estate
+2,2,936000,129,0,7255,Saadiyat Island
+1,0,203919,34,0,5997,Meydan
+2,1,285600,76,0,3757,Discovery Gardens
+2,1,312000,99,1,3151,Al Jaddaf
+2,1,546000,96,0,5687,Jumeirah Lake Towers
+1,1,312000,54,1,5777,Meydan
+3,4,516000,211,0,2445,Damac Lagoons
+5,4,1152000,309,0,3728,Mudon
+5,4,5040000,414,0,12173,Jumeirah
+5,5,3480000,633,0,5497,Tilal Al Ghaf
+6,5,2808000,505,0,5560,Jumeirah Park
+3,2,852000,154,0,5532,City Walk
+2,2,852000,134,0,6358,Downtown Dubai
+4,3,1836000,189,0,9714,Downtown Dubai
+2,1,237600,64,1,3712,Jumeirah Lake Towers
+3,2,888000,136,1,6529,Downtown Dubai
+3,3,1248000,261,0,4781,Dubai Hills Estate
+1,0,159600,37,0,4313,Dubai Studio City
+4,4,792000,269,0,2944,Dubai Land
+1,0,110400,46,1,2400,Dubai Production City (IMPZ)
+2,1,336000,85,0,3952,Dubai Marina
+4,3,672000,189,0,3555,Arabian Ranches 3
+6,4,960000,434,0,2211,Reem
+1,1,720000,67,1,10746,Dubai Harbour
+5,4,1080000,307,0,3517,Jumeirah Golf Estates
+4,5,5280000,705,0,7489,Dubai Hills Estate
+1,1,146133,40,1,3653,DAMAC Hills
+5,4,1248000,316,0,3949,Tilal Al Ghaf
+2,2,528000,95,0,5557,Dubai Hills Estate
+4,3,1440000,264,0,5454,Arabian Ranches
+6,5,2940000,380,0,7736,Meadows
+6,4,1440000,388,1,3711,DAMAC Hills
+3,3,1260000,314,0,4012,Nad Al Sheba
+7,6,3840000,631,0,6085,Jumeirah Park
+2,1,324000,80,0,4050,Jumeirah Village Circle
+4,3,1176000,301,0,3906,Arabian Ranches 2
+3,2,3840000,212,0,18113,Palm Jumeirah
+3,2,504000,130,1,3876,Jumeirah Lake Towers
+4,3,648000,202,0,3207,Arabian Ranches 3
+6,4,888000,345,0,2573,Jumeirah Village Circle
+1,1,710400,79,0,8992,Dubai Harbour
+1,1,288000,46,0,6260,Dubai Hills Estate
+5,4,3408000,282,0,12085,Jumeirah Beach Residence
+5,4,17640000,729,0,24197,Palm Jumeirah
+3,2,936000,101,0,9267,City Walk
+5,4,1872000,445,0,4206,Al Barari
+6,4,1152000,405,1,2844,Jumeirah Village Circle
+6,4,15600000,680,0,22941,Palm Jumeirah
+2,1,720000,91,1,7912,Downtown Dubai
+7,5,4680000,930,0,5032,Nad Al Sheba
+1,1,768000,85,0,9035,Jumeirah Beach Residence
+2,1,504000,77,0,6545,Downtown Dubai
+3,4,2760000,380,0,7263,Meadows
+7,6,12720000,1244,0,10225,Palm Jumeirah
+4,3,1848000,308,1,6000,Arabian Ranches
+5,5,1920000,363,0,5289,Al Furjan
+3,3,1428000,153,0,9333,City Walk
+3,3,636000,143,0,4447,Jumeirah Lake Towers
+4,3,1032000,210,0,4914,Palm Jumeirah
+1,1,286800,82,0,3497,DAMAC Hills
+3,3,1174800,228,0,5152,The Springs
+5,4,1836000,445,0,4125,Al Barari
+2,1,268800,86,0,3125,Dubai Sports City
+3,2,864000,139,0,6215,Dubai Marina
+5,5,3720000,534,0,6966,Arabian Ranches
+3,3,324000,112,0,2892,Damac Hills 2
+7,6,4440000,659,0,6737,Jumeirah Golf Estates
+5,4,837600,232,0,3610,Yas Island
+5,3,1438800,267,0,5388,Jumeirah Golf Estates
+3,3,1080000,228,0,4736,The Springs
+4,3,504000,184,0,2739,Dubai South (Dubai World Central)
+3,3,720000,176,0,4090,Arabian Ranches 3
+5,4,1071384,361,0,2967,Al Reem Island
+3,3,1032000,201,1,5134,Jumeirah Beach Residence
+4,3,912000,238,0,3831,Dubai Marina
+5,5,3120000,527,0,5920,Tilal Al Ghaf
+1,0,174000,33,1,5272,Business Bay
+4,3,1236000,294,0,4204,Arabian Ranches 2
+6,5,1896000,455,0,4167,The Villa
+3,2,744000,157,0,4738,The Springs
+4,3,1488000,254,0,5858,The Springs
+4,4,1560000,180,0,8666,Al Barari
+3,2,528000,123,0,4292,Yas Island
+4,4,1368000,209,0,6545,The Springs
+5,4,2232000,402,0,5552,Jumeirah Park
+5,4,12000000,536,0,22388,Palm Jumeirah
+7,5,1967988,436,0,4513,Jumeirah Village Triangle
+4,3,708000,183,0,3868,Dubai Land
+3,3,1800000,329,0,5471,Arabian Ranches
+4,3,694944,224,0,3102,DAMAC Hills
+5,4,5280000,501,0,10538,Jumeirah Islands
+5,4,959976,234,0,4102,Dubai Land
+3,2,768000,157,0,4891,The Springs
+5,5,2100000,664,0,3162,The Villa
+6,5,10080000,622,1,16205,Palm Jumeirah
+6,4,3360000,472,0,7118,Dubai Hills Estate
+3,4,1199999,228,0,5263,Dubai Hills Estate
+5,5,2040000,558,0,3655,The Villa
+2,1,331200,103,1,3215,Dubai Marina
+4,3,996000,226,0,4407,Palm Jumeirah
+3,2,235200,99,1,2375,Rukan
+1,1,372000,59,0,6305,Dubai Hills Estate
+7,5,1800000,557,1,3231,Al Furjan
+2,1,216000,65,0,3323,Jumeirah Village Circle
+1,1,312000,45,1,6933,Dubai Hills Estate
+3,2,2400000,160,1,15000,Downtown Dubai
+1,0,156000,36,0,4333,Jumeirah Village Circle
+1,1,120000,45,0,2666,Rukan
+3,2,1716000,119,0,14420,Dubai Harbour
+4,3,996000,333,0,2990,Dubai Land
+2,2,837600,126,1,6647,Downtown Dubai
+4,4,858000,216,0,3972,Dubai Land
+2,1,213600,72,1,2966,Dubai Studio City
+2,2,432000,107,1,4037,Al Furjan
+2,2,354000,90,0,3933,Meydan
+2,1,528000,79,0,6683,Business Bay
+2,2,1008000,163,1,6184,Culture Village
+2,2,1080000,206,0,5242,Arabian Ranches
+3,4,2100000,315,0,6666,Jumeirah Village Triangle
+1,0,213600,72,1,2966,Al Furjan
+3,2,432000,135,0,3200,Al Furjan
+1,1,636480,75,1,8486,Umm Suqeim
+4,4,864000,234,0,3692,Reem
+1,0,363600,37,0,9827,Downtown Dubai
+1,0,276000,40,0,6900,Business Bay
+6,4,5280000,413,1,12784,Dubai Marina
+4,3,1272000,156,0,8153,Downtown Dubai
+3,4,609600,212,0,2875,Damac Lagoons
+3,3,780000,126,0,6190,Dubai Hills Estate
+7,7,7920000,1264,1,6265,Dubai Hills Estate
+1,1,302400,64,0,4725,DAMAC Hills
+5,4,912000,279,0,3268,Mirdif
+5,4,5040000,817,1,6168,Jumeirah Islands
+7,5,2496000,474,0,5265,Nad Al Sheba
+5,4,888000,251,0,3537,Dubai Land
+4,3,564000,175,0,3222,Jumeirah Beach Residence
+3,2,564000,118,0,4779,Jumeirah Beach Residence
+7,6,2879760,598,0,4815,Meydan
+4,4,720000,250,0,2880,Dubai Land
+2,1,244800,74,0,3308,DAMAC Hills
+1,1,168000,70,1,2400,Dubai Sports City
+4,3,648000,137,0,4729,Arabian Ranches 3
+3,2,1320000,125,0,10560,Al Wasl
+4,3,2639999,168,0,15714,Dubai Harbour
+3,3,1872000,271,0,6907,Dubai Hills Estate
+6,4,1200000,367,0,3269,Al Furjan
+2,2,912000,118,0,7728,Umm Suqeim
+2,1,139200,67,0,2077,Al Reef
+4,4,2327880,473,0,4921,Mohammed Bin Rashid City
+4,3,1368000,232,0,5896,The Lakes
+1,0,127200,43,1,2958,Rukan
+6,6,10080000,1299,0,7759,Dubai Hills Estate
+5,4,1020000,273,0,3736,Al Furjan
+2,1,468000,76,1,6157,The Views
+1,0,105600,36,0,2933,Dubai Land
+2,1,516000,74,0,6972,Dubai Design District
+2,2,612000,124,0,4935,Dubai Marina
+4,4,768000,161,0,4770,Jumeirah Village Circle
+7,6,2760000,650,0,4246,The Villa
+2,1,840000,77,0,10909,Dubai Harbour
+3,2,840000,126,0,6666,Al Wasl
+4,3,3816000,299,1,12762,Jumeirah Beach Residence
+1,1,624000,79,1,7898,Dubai Harbour
+4,4,1620000,583,0,2778,Jumeirah Park
+7,7,14160000,1579,0,8967,Al Barari
+4,3,1344000,182,0,7384,Jumeirah Golf Estates
+7,6,6000000,724,1,8287,Jumeirah
+2,2,861600,166,0,5190,The Springs
+1,0,180000,41,0,4390,Dubai Studio City
+1,0,129600,36,1,3600,Al Furjan
+5,4,1080000,287,0,3763,Meydan
+6,4,9360000,1030,1,9087,Jumeirah
+6,4,2520000,542,0,4649,The Oasis by Emaar
+6,5,2040000,544,0,3750,Saadiyat Island
+5,3,720000,235,0,3063,Jumeirah Village Circle
+5,4,2088000,446,0,4681,Yas Island
+1,0,120000,40,1,3000,Dubai South (Dubai World Central)
+1,0,144000,27,0,5333,Meydan
+4,2,1245600,249,0,5002,Jumeirah Village Triangle
+1,0,122400,31,1,3948,DAMAC Hills
+5,4,933333,329,0,2836,Dubai South (Dubai World Central)
+7,7,1728000,1393,0,1240,Al Twar
+4,3,600000,189,0,3174,Town Square
+2,1,564000,107,0,5271,Downtown Dubai
+2,1,228000,71,0,3211,DAMAC Hills
+2,1,224640,57,0,3941,Jumeirah Village Circle
+4,3,960000,207,0,4637,Jumeirah Golf Estates
+1,0,864000,78,1,11076,Jumeirah Beach Residence
+5,4,804000,263,0,3057,Mudon
+6,6,2399999,943,0,2545,The Villa
+5,4,816000,236,0,3457,Reem
+4,2,1512000,184,0,8217,Saadiyat Island
+2,1,160800,66,0,2436,Dubai Residence Complex
+4,3,324000,146,0,2219,Dubai Sports City
+3,2,432000,138,0,3130,Arjan
+3,3,1656000,156,0,10615,Dubai Harbour
+4,3,588000,181,0,3248,Mudon
+7,6,3360000,799,0,4205,Dubai South (Dubai World Central)
+5,5,1224000,570,0,2147,The Villa
+4,4,1163999,315,0,3695,Dubai Sports City
+1,1,364800,81,1,4503,Yas Island
+2,2,324000,84,0,3857,Town Square
+3,2,804000,112,0,7178,City Walk
+3,3,1740000,177,1,9830,Dubai Harbour
+4,3,792000,148,0,5351,Dubai Creek Harbour (The Lagoons)
+1,0,118800,40,0,2970,Jumeirah Village Circle
+5,3,420000,174,0,2413,Damac Hills 2
+3,2,756000,179,1,4223,DIFC
+5,4,686400,371,0,1850,Jumeirah Village Circle
+5,4,3000000,371,0,8086,Jumeirah Park
+7,6,8400000,821,0,10231,Dubai Hills Estate
+2,1,408000,57,0,7157,Mohammed Bin Rashid City
+1,0,348000,51,0,6823,Palm Jumeirah
+4,3,504000,157,0,3210,Al Ghadeer
+4,3,564000,172,0,3279,Town Square
+4,3,1440000,387,0,3720,Yas Island
+2,1,195600,79,0,2475,Al Reem Island
+6,4,2160000,454,0,4757,Yas Island
+3,2,720000,135,0,5333,Yas Island
+1,0,96000,39,0,2461,Damac Hills 2
+3,3,1008000,202,0,4990,Dubai Marina
+2,2,456000,116,1,3931,Dubai Marina
+4,3,948000,125,1,7584,Downtown Dubai
+4,4,1931999,300,0,6439,Dubai Hills Estate
+4,3,1920000,334,0,5748,DIFC
+5,4,9600000,647,1,14837,Downtown Dubai
+1,1,624000,107,1,5831,Palm Jumeirah
+5,4,1800000,346,0,5202,Tilal Al Ghaf
+1,0,240000,47,0,5106,Al Reem Island
+4,3,1008000,203,0,4965,Meydan
+2,1,988800,105,0,9417,Palm Jumeirah
+4,3,624000,192,0,3250,The Valley
+4,3,624000,191,0,3267,The Valley
+1,0,103200,35,0,2948,Remraam
+1,1,168000,85,1,1976,Discovery Gardens
+1,1,293760,72,0,4080,Town Square
+1,1,648000,88,1,7363,Downtown Dubai
+1,1,378000,69,0,5478,Emirates Hills 2
+5,3,2400000,248,0,9677,Palm Jumeirah
+1,0,336000,40,1,8400,Palm Jumeirah
+4,3,1140000,348,0,3275,DAMAC Hills
+1,1,264000,85,0,3105,Dubai Marina
+7,5,4200000,928,0,4525,Jumeirah Golf Estates
+3,2,381600,122,0,3127,Arjan
+1,0,158400,43,0,3683,Arjan
+4,3,3480000,352,1,9886,Downtown Dubai
+3,4,840000,242,0,3471,Mudon
+3,3,1032000,184,1,5608,Jumeirah Beach Residence
+4,2,888000,121,1,7338,Mohammed Bin Rashid City
+4,4,696000,290,0,2400,Town Square
+1,1,179976,70,0,2571,Dubai Residence Complex
+1,1,308400,78,0,3953,Jumeirah Village Circle
+3,2,864000,173,0,4994,Palm Jumeirah
+3,3,1248000,133,1,9383,Dubai Creek Harbour (The Lagoons)
+2,1,479760,69,1,6953,Downtown Dubai
+5,3,9840000,582,1,16907,Palm Jumeirah
+5,4,14880000,578,0,25743,Palm Jumeirah
+1,1,180000,63,1,2857,Town Square
+2,2,559200,111,0,5037,Mohammed Bin Rashid City
+2,2,816000,101,0,8079,Downtown Dubai
+1,0,520800,59,0,8827,Downtown Dubai
+3,2,768000,291,0,2639,Jumeirah Village Circle
+4,2,336000,137,0,2452,Jumeirah Village Circle
+2,1,295200,68,0,4341,Jumeirah Village Circle
+4,4,3600000,237,1,15189,Jumeirah Beach Residence
+4,4,1020000,302,0,3377,Al Furjan
+1,0,199200,32,0,6225,Dubai Healthcare City
+3,3,648000,125,0,5184,Arabian Ranches 3
+2,2,405600,128,1,3168,Dubai Marina
+2,1,427200,66,1,6472,Dubai Marina
+5,4,720000,226,0,3185,Rukan
+2,1,360000,81,1,4444,Dubai Marina
+3,2,690000,158,0,4367,DIFC
+3,3,792000,211,0,3753,Dubai Land
+3,2,768000,138,0,5565,Downtown Dubai
+2,1,708000,87,0,8137,Dubai Media City
+2,1,520800,74,0,7037,Business Bay
+2,2,240000,83,0,2891,Town Square
+4,3,876000,146,1,6000,Dubai Hills Estate
+3,2,324000,105,0,3085,Al Furjan
+4,4,3108000,486,1,6395,Palm Jumeirah
+4,4,1020000,239,0,4267,Al Furjan
+3,2,636000,144,0,4416,Dubai Marina
+3,2,744000,121,0,6148,Dubai Hills Estate
+3,3,2472000,206,0,12000,Palm Jumeirah
+3,2,912000,166,1,5493,Palm Jumeirah
+7,6,15120000,743,1,20349,Palm Jumeirah
+2,2,684000,100,0,6840,Downtown Dubai
+2,2,744000,93,1,8000,Downtown Dubai
+4,3,1428000,172,0,8302,Downtown Dubai
+6,5,6000000,659,0,9104,Dubai Hills Estate
+1,0,102000,40,1,2550,Dubai Sports City
+3,2,612000,129,1,4744,Business Bay
+1,1,276000,70,0,3942,Greens
+3,2,672000,157,0,4280,Mohammed Bin Rashid City
+1,1,818400,77,0,10628,Dubai Harbour
+3,2,900000,166,0,5421,Palm Jumeirah
+4,3,1248000,175,0,7131,Umm Suqeim
+2,1,792000,125,0,6336,Palm Jumeirah
+4,3,1248000,171,1,7298,Umm Suqeim
+2,2,948000,205,0,4624,Dubai Creek Harbour (The Lagoons)
+4,3,1438800,194,0,7416,Dubai Marina
+1,0,192000,27,0,7111,Barsha Heights (Tecom)
+1,0,156000,36,0,4333,Jumeirah Village Triangle
+5,4,1116000,376,0,2968,Jebel Ali
+3,3,564000,174,0,3241,Arabian Ranches 3
+5,5,6000000,647,1,9273,Downtown Dubai
+6,4,6431999,484,0,13289,Downtown Dubai
+4,4,720000,186,1,3870,Dubai Land
+5,5,732000,183,0,4000,Damac Lagoons
+3,2,1303200,126,1,10342,Palm Jumeirah
+6,4,2700000,546,0,4945,Deira
+2,2,967200,149,0,6491,Business Bay
+4,3,720000,166,0,4337,Yas Island
+3,2,276000,116,1,2379,Dubai Sports City
+4,2,2400000,212,0,11320,Saadiyat Island
+1,1,396000,62,1,6387,Dubai Creek Harbour (The Lagoons)
+2,1,420000,84,0,5000,Dubai Marina
+2,1,576000,110,0,5236,Dubai Marina
+1,1,564000,65,1,8676,Dubai Creek Harbour (The Lagoons)
+3,3,528000,215,0,2455,Dubai South (Dubai World Central)
+3,2,672000,132,0,5090,Expo City
+7,7,7920000,1264,1,6265,Dubai Hills Estate
+3,2,759120,93,0,8162,Downtown Dubai
+4,3,525600,172,0,3055,Al Furjan
+2,2,720000,111,1,6486,Downtown Dubai
+4,2,736346,167,0,4409,Yas Island
+1,1,599760,88,1,6815,Dubai Marina
+1,0,157680,35,1,4505,Jumeirah Village Circle
+5,4,4079999,321,0,12710,Palm Jumeirah
+4,2,864000,117,0,7384,City Walk
+2,2,468000,110,0,4254,Dubai Marina
+4,4,2400000,343,0,6997,Dubai Hills Estate
+3,3,672000,193,0,3481,Arabian Ranches 3
+1,1,468000,68,0,6882,Downtown Dubai
+3,2,336000,102,0,3294,Dubai Production City (IMPZ)
+2,1,199200,92,0,2165,Jumeirah Village Circle
+1,0,155999,29,0,5379,Meydan
+4,3,384000,174,0,2206,Al Reef
+1,1,432000,81,0,5333,Business Bay
+2,1,408000,65,0,6276,Dubai Hills Estate
+3,3,888000,139,0,6388,Dubai Hills Estate
+4,2,936000,170,1,5505,Dubai Marina
+2,2,624000,130,0,4800,Mina Rashid
+3,2,588000,87,0,6758,Mohammed Bin Rashid City
+2,1,336000,85,1,3952,Dubai Marina
+3,2,612000,114,0,5368,Yas Island
+2,1,504000,84,0,6000,Dubai Hills Estate
+4,2,1800000,182,1,9890,Downtown Dubai
+2,1,360000,70,0,5142,Maritime City
+3,2,780000,160,0,4875,Dubai Hills Estate
+5,4,912000,264,0,3454,Jumeirah Beach Residence
+6,5,1884000,841,0,2240,The Villa
+5,3,864000,274,0,3153,Dubai South (Dubai World Central)
+1,2,444000,71,0,6253,Dubai Hills Estate
+4,3,660000,204,0,3235,Arabian Ranches 3
+1,0,112800,46,1,2452,Arjan
+2,2,715200,100,0,7152,Dubai Creek Harbour (The Lagoons)
+2,1,384000,89,0,4314,Downtown Dubai
+7,6,11040000,863,0,12792,Palm Jumeirah
+4,3,2376000,463,0,5131,Palm Jumeirah
+3,3,1200000,361,0,3324,The Springs
+1,0,112800,39,1,2892,Arjan
+2,1,717120,107,1,6702,Palm Jumeirah
+2,2,2376000,149,1,15946,Bluewaters
+2,1,1008000,115,1,8765,Palm Jumeirah
+2,1,672000,69,1,9739,Jumeirah
+4,3,1031999,158,1,6531,Dubai Creek Harbour (The Lagoons)
+1,0,151200,36,0,4200,Jumeirah Village Triangle
+2,1,540000,66,0,8181,Palm Jumeirah
+1,1,525360,69,0,7613,Downtown Dubai
+7,6,18480000,901,0,20510,Palm Jumeirah
+1,1,414000,64,0,6468,Dubai Hills Estate
+2,1,645600,107,0,6033,Palm Jumeirah
+5,4,888000,247,0,3595,Dubai South (Dubai World Central)
+1,1,660000,68,0,9705,Dubai Harbour
+3,2,477600,80,0,5970,Business Bay
+6,5,6720000,991,0,6781,Tilal Al Ghaf
+4,2,1260000,172,1,7325,Dubai Marina
+2,1,259200,73,0,3550,Business Bay
+3,3,576000,172,0,3348,Al Furjan
+3,2,1533600,175,0,8763,Downtown Dubai
+4,3,636000,162,0,3925,Yas Island
+4,3,564000,173,0,3260,Town Square
+4,3,792000,187,0,4235,Yas Island
+2,1,576000,78,0,7384,Downtown Dubai
+1,2,444000,71,0,6253,Dubai Hills Estate
+5,4,3000000,311,0,9646,Palm Jumeirah
+3,3,600000,143,1,4195,Mudon
+2,2,984000,103,1,9553,Dubai Creek Harbour (The Lagoons)
+1,1,624000,84,0,7428,Dubai Marina
+7,7,3360000,891,0,3771,Umm Suqeim
+2,2,696000,110,0,6327,Dubai Creek Harbour (The Lagoons)
+2,1,196800,72,1,2733,Al Furjan
+2,1,174000,89,0,1955,Discovery Gardens
+2,1,354000,67,1,5283,Dubai Marina
+3,3,1680000,126,0,13333,Downtown Dubai
+2,1,414000,79,1,5240,Dubai Marina
+2,1,696000,67,1,10388,Dubai Creek Harbour (The Lagoons)
+2,1,960000,102,0,9411,DIFC
+2,3,1524000,132,1,11545,Dubai Creek Harbour (The Lagoons)
+2,1,543600,66,0,8236,Meydan
+6,5,1440000,460,0,3130,The Valley
+1,1,422400,65,0,6498,Mohammed Bin Rashid City
+1,1,228000,61,0,3737,Jumeirah Lake Towers
+3,3,1560000,308,0,5064,Arabian Ranches
+5,4,1572000,1108,0,1418,Green Community
+2,1,240000,64,0,3750,Jumeirah Lake Towers
+2,3,2400000,390,0,6153,Arabian Ranches
+3,2,792000,153,0,5176,The Springs
+1,0,110400,40,0,2760,Jumeirah Village Triangle
+3,2,1008000,163,0,6184,Culture Village
+2,1,228000,97,0,2350,Motor City
+1,1,600000,68,0,8823,Dubai Harbour
+3,4,858960,288,0,2982,Arabian Ranches 3
+5,3,2880000,183,1,15737,Umm Suqeim
+1,0,146400,35,0,4182,Meydan
+2,2,612000,101,0,6059,Dubai Creek Harbour (The Lagoons)
+5,4,3360000,368,0,9130,Dubai Marina
+2,1,336000,67,0,5014,Dubai Marina
+2,2,959997,100,0,9599,Jumeirah
+2,2,600000,98,0,6122,Dubai Hills Estate
+3,2,684000,158,0,4329,DIFC
+4,3,1488000,166,0,8963,Downtown Dubai
+2,1,491754,71,0,6926,Business Bay
+3,4,1020000,301,0,3388,Al Furjan
+2,1,252000,125,0,2016,Motor City
+3,2,408000,247,0,1651,Motor City
+4,3,1236000,255,0,4847,Arabian Ranches
+5,4,4440000,748,0,5935,Dubai Hills Estate
+3,2,912000,124,1,7354,Dubai Creek Harbour (The Lagoons)
+2,1,336000,78,0,4307,Business Bay
+3,2,1248000,128,0,9750,Jumeirah
+2,1,455760,74,0,6158,Maritime City
+4,3,1560000,219,0,7123,Downtown Dubai
+2,1,446400,65,0,6867,Business Bay
+5,4,684000,244,0,2803,Jumeirah Village Circle
+3,2,888000,186,1,4774,The Springs
+1,1,756000,75,0,10080,Downtown Dubai
+5,4,1584000,450,0,3520,Mohammed Bin Rashid City
+4,4,720000,210,0,3428,Dubai Land
+4,3,792000,145,0,5462,Mohammed Bin Rashid City
+4,3,2136000,188,0,11361,Dubai Harbour
+2,1,1056000,99,0,10666,Palm Jumeirah
+3,2,672000,126,0,5333,Mohammed Bin Rashid City
+1,1,803760,75,0,10716,Dubai Harbour
+2,1,323760,66,1,4905,Business Bay
+2,1,381360,75,1,5084,Jumeirah Lake Towers
+3,3,1176000,211,0,5573,Jumeirah Golf Estates
+2,2,552000,100,1,5520,Business Bay
+4,3,1080000,181,0,5966,Dubai Hills Estate
+5,4,2160000,722,0,2991,Arabian Ranches 2
+4,4,1440000,403,0,3573,Green Community
+3,2,540000,142,0,3802,Meydan
+6,5,3835200,557,0,6885,Nad Al Sheba
+4,4,984000,296,1,3324,Al Yelayiss 1
+4,2,576000,154,1,3740,Jumeirah Lake Towers
+5,5,2076000,639,0,3248,Arabian Ranches
+2,1,480000,91,0,5274,Al Kifaf
+4,4,3336000,293,0,11385,Dubai Creek Harbour (The Lagoons)
+2,2,540000,89,0,6067,Dubai Hills Estate
+4,3,479013,174,0,2752,Damac Hills 2
+3,3,732000,134,0,5462,Business Bay
+2,1,756000,76,0,9947,Downtown Dubai
+1,1,408000,69,0,5913,Dubai Marina
+2,2,336000,72,0,4666,Meydan
+2,1,684000,107,1,6392,Palm Jumeirah
+7,5,12360000,1039,1,11896,Jumeirah
+2,1,744000,107,1,6953,Palm Jumeirah
+2,1,153600,70,0,2194,Remraam
+6,5,1920000,612,0,3137,DAMAC Hills
+1,1,420000,64,0,6562,Business Bay
+1,0,144000,39,1,3692,Al Furjan
+4,3,1917600,207,0,9263,Jumeirah
+2,1,300000,91,1,3296,Jumeirah Lake Towers
+2,2,1029600,116,1,8875,Downtown Dubai
+3,2,768000,108,0,7111,Dubai Creek Harbour (The Lagoons)
+4,2,576000,160,0,3600,Jumeirah Lake Towers
+2,2,408000,133,0,3067,Jumeirah Village Circle
+4,4,984000,324,0,3037,Dubai Land
+3,2,600000,112,0,5357,Mohammed Bin Rashid City
+3,5,2448000,397,0,6166,Jumeirah Village Triangle
+1,1,564000,72,0,7833,Downtown Dubai
+2,1,240000,70,1,3428,Jumeirah Village Circle
+2,1,480000,65,1,7384,Business Bay
+4,3,864000,176,1,4909,Jumeirah Beach Residence
+3,2,235200,88,0,2672,Town Square
+4,4,7440000,504,0,14761,Dubai Harbour
+1,1,324000,69,0,4695,Greens
+4,3,7440000,258,1,28837,Palm Jumeirah
+4,3,1800000,178,1,10112,Dubai Harbour
+4,4,948000,293,0,3235,Meydan
+4,3,912000,238,0,3831,Serena
+2,2,312000,109,0,2862,Jumeirah Village Circle
+5,4,1248000,219,0,5698,Meydan
+2,2,1428000,121,0,11801,Dubai Harbour
+3,2,312000,117,0,2666,Al Reef
+3,2,1272000,144,0,8833,Al Wasl
+2,1,600000,93,0,6451,Downtown Dubai
+3,2,600000,120,0,5000,Dubai Marina
+2,1,312000,78,1,4000,Jumeirah Village Circle
+2,1,246000,74,1,3324,Business Bay
+2,1,306000,88,0,3477,Jumeirah Village Circle
+3,3,958800,262,0,3659,Yas Island
+2,1,239948,75,0,3199,Dubai Residence Complex
+1,1,475728,64,1,7433,Dubai Creek Harbour (The Lagoons)
+4,3,958800,152,0,6307,Dubai Creek Harbour (The Lagoons)
+5,4,1197600,394,0,3039,Dubai Land
+5,4,1728000,380,0,4547,Al Furjan
+3,2,933600,107,1,8725,Dubai Marina
+2,2,888000,107,0,8299,Dubai Marina
+4,4,813600,218,0,3732,Arabian Ranches 3
+3,3,546000,185,0,2951,Dubai South (Dubai World Central)
+2,1,252000,97,0,2597,Al Reem Island
+1,1,420000,63,0,6666,Dubai Creek Harbour (The Lagoons)
+2,1,383999,69,1,5565,Mohammed Bin Rashid City
+1,1,264000,72,0,3666,Meydan
+2,2,1140000,123,0,9268,Dubai Marina
+2,2,1128000,102,1,11058,Dubai Creek Harbour (The Lagoons)
+4,3,1224000,145,0,8441,Downtown Dubai
+5,4,1512000,330,0,4581,Al Furjan
+1,1,408000,72,0,5666,Dubai Creek Harbour (The Lagoons)
+1,2,432000,69,0,6260,Dubai Hills Estate
+4,2,542400,142,0,3819,Meydan
+1,0,103200,38,0,2715,Dubai Sports City
+1,1,324000,59,0,5491,Dubai Hills Estate
+3,3,720000,175,0,4114,Rukan
+6,5,9600000,800,0,12000,Dubai Hills Estate
+4,3,6120000,364,0,16813,Al Sufouh
+3,2,264000,88,0,3000,Remraam
+2,1,264000,53,0,4981,Meydan
+1,1,648000,73,0,8876,Umm Suqeim
+5,4,2028000,352,1,5761,Dubai Hills Estate
+2,1,228000,93,0,2451,Motor City
+1,1,180000,50,1,3600,Al Furjan
+2,2,888000,125,0,7104,City Walk
+4,3,571200,187,0,3054,Town Square
+3,2,671999,128,0,5249,Mohammed Bin Rashid City
+3,2,600000,116,0,5172,Business Bay
+2,1,479999,67,0,7164,City Walk
+2,1,222000,62,0,3580,Al Furjan
+3,4,559200,143,0,3910,Damac Lagoons
+2,2,264000,131,0,2015,Living Legends
+3,2,636000,120,0,5300,Dubai Marina
+2,1,576000,101,1,5702,Culture Village
+3,2,2160000,192,0,11250,Dubai Marina
+2,1,402000,75,1,5360,Dubai Marina
+1,1,168000,104,0,1615,Remraam
+3,2,1005600,206,0,4881,Arabian Ranches
+3,2,552000,99,0,5575,Dubai Marina
+2,2,720000,93,0,7741,Downtown Dubai
+2,1,576000,71,1,8112,Downtown Dubai
+1,0,172800,28,1,6171,Meydan
+7,5,4848000,634,0,7646,Mohammed Bin Rashid City
+3,3,564000,174,0,3241,The Valley
+1,1,497781,100,0,4977,Nad Al Sheba
+1,0,169200,32,0,5287,Meydan
+3,2,1296000,134,1,9671,Downtown Dubai
+3,2,1512000,130,0,11630,Jumeirah Beach Residence
+1,0,131999,37,1,3567,Al Furjan
+6,5,8400000,2585,0,3249,Umm Suqeim
+3,2,563999,137,0,4116,Al Muhaisnah
+1,1,324000,70,0,4628,Greens
+4,3,504000,157,0,3210,Al Ghadeer
+3,3,648000,152,0,4263,Dubai Marina
+2,2,972000,102,0,9529,Dubai Creek Harbour (The Lagoons)
+2,2,888000,102,0,8705,Dubai Creek Harbour (The Lagoons)
+3,3,1296000,267,1,4853,Dubai Hills Estate
+3,3,1164000,258,0,4511,Dubai Hills Estate
+3,2,1164000,637,0,1827,Jumeirah Village Triangle
+4,3,390000,106,0,3679,Jumeirah Lake Towers
+1,1,360000,70,1,5142,Greens
+6,5,3720000,757,0,4914,Tilal Al Ghaf
+1,0,120000,40,0,3000,Jumeirah Village Triangle
+3,2,1920000,160,0,12000,Dubai Harbour
+4,3,912000,254,0,3590,Jumeirah Lake Towers
+1,0,186000,46,1,4043,Business Bay
+2,2,1140000,110,1,10363,Downtown Dubai
+3,2,288000,88,1,3272,Al Furjan
+1,0,120000,40,0,3000,Rukan
+4,3,1056000,194,0,5443,Dubai Hills Estate
+2,2,1260000,114,1,11052,Dubai Harbour
+3,3,2400000,181,0,13259,Dubai Harbour
+1,1,336000,46,0,7304,Dubai Hills Estate
+1,1,276000,62,0,4451,Meydan
+4,2,1008000,250,0,4032,Jumeirah Village Circle
+3,4,852000,186,0,4580,DAMAC Hills
+5,3,948000,237,1,4000,Dubai Marina
+3,2,3595200,305,0,11787,Business Bay
+1,0,105493,34,0,3102,Al Warsan
+5,4,672000,145,0,4634,Damac Lagoons
+5,4,3360000,384,0,8750,Jumeirah
+2,2,414000,84,0,4928,Business Bay
+4,3,1432800,405,0,3537,Dubai Land
+3,2,1080000,162,1,6666,City Walk
+2,2,648000,96,1,6750,Mohammed Bin Rashid City
+2,1,234000,88,0,2659,Al Furjan
+3,3,1008000,202,0,4990,Dubai Marina
+3,2,360000,120,0,3000,Jumeirah Lake Towers
+2,1,324000,84,0,3857,Jumeirah Village Circle
+2,1,156000,72,0,2166,Remraam
+1,1,588000,73,1,8054,Jumeirah
+1,1,576000,83,0,6939,Al Sufouh
+4,4,3072000,417,0,7366,Jumeirah Golf Estates
+2,2,328800,120,0,2740,Al Furjan
+2,1,264000,67,1,3940,Arjan
+6,5,3720000,757,0,4914,Tilal Al Ghaf
+6,5,5760000,991,0,5812,Tilal Al Ghaf
+5,4,3840000,498,0,7710,Dubai Hills Estate
+6,5,6959760,991,0,7022,Tilal Al Ghaf
+7,6,10559997,963,0,10965,Dubai Hills Estate
+3,3,1248000,160,0,7800,Downtown Dubai
+2,2,720000,170,0,4235,Dubai Creek Harbour (The Lagoons)
+1,1,648000,67,1,9671,Dubai Harbour
+2,1,468000,98,0,4775,Downtown Dubai
+1,1,720000,76,1,9473,Dubai Harbour
+1,1,660000,79,0,8354,Dubai Harbour
+3,3,2100000,185,0,11351,Dubai Harbour
+2,2,840000,154,0,5454,Dubai Hills Estate
+1,1,840000,73,0,11506,Dubai Harbour
+6,5,2928000,576,0,5083,Green Community
+3,2,1848000,163,0,11337,Palm Jumeirah
+7,5,6000000,991,0,6054,Tilal Al Ghaf
+4,3,4560000,364,0,12527,Al Sufouh
+1,1,295199,64,0,4612,DAMAC Hills
+3,2,1620000,125,0,12960,Palm Jumeirah
+4,3,1536000,272,0,5647,Arabian Ranches
+2,1,1312800,99,0,13260,Palm Jumeirah
+3,2,1440000,183,0,7868,Palm Jumeirah
+2,1,223920,86,1,2603,Jumeirah Village Circle
+4,4,1164000,311,0,3742,Dubai Sports City
+4,4,948000,306,0,3098,Dubai Sports City
+2,1,360000,73,0,4931,Jumeirah Village Circle
+1,0,258000,39,1,6615,Jumeirah Lake Towers
+3,2,3000000,171,1,17543,Downtown Dubai
+5,4,5520000,447,0,12348,Dubai Internet City
+1,1,420000,105,0,4000,Deira
+2,2,513600,148,0,3470,Jumeirah Village Circle
+1,1,684000,68,0,10058,Dubai Harbour
+1,1,264000,45,0,5866,Mohammed Bin Rashid City
+2,2,1644000,108,0,15222,Jumeirah Beach Residence
+6,5,1812000,569,0,3184,Al Furjan
+3,2,552000,136,0,4058,Yas Island
+4,3,1080000,218,0,4954,Dubai Creek Harbour (The Lagoons)
+1,1,215999,51,0,4235,Arjan
+2,2,264000,92,0,2869,Town Square
+1,1,246000,72,1,3416,Dubai Marina
+7,6,936000,437,0,2141,Damac Hills 2
+3,3,1512000,170,0,8894,Downtown Dubai
+1,0,148800,37,1,4021,Al Furjan
+4,3,816000,187,0,4363,Mohammed Bin Rashid City
+2,1,547200,85,0,6437,Mohammed Bin Rashid City
+1,1,372000,62,0,6000,Dubai Creek Harbour (The Lagoons)
+1,1,216000,44,0,4909,Meydan
+4,3,1272000,169,0,7526,Dubai Creek Harbour (The Lagoons)
+5,4,1488000,307,0,4846,Meydan
+3,2,480000,254,0,1889,Jumeirah Golf Estates
+2,2,720000,151,0,4768,Jumeirah Golf Estates
+1,1,1008000,112,1,9000,Palm Jumeirah
+3,3,2400000,189,0,12698,Dubai Harbour
+3,2,174000,89,0,1955,Dubai Production City (IMPZ)
+5,4,1200000,501,0,2395,Jumeirah Village Circle
+2,1,420000,84,0,5000,The Views
+1,1,576000,71,1,8112,Dubai Creek Harbour (The Lagoons)
+4,3,888000,191,1,4649,Business Bay
+4,2,789600,126,0,6266,Dubai Hills Estate
+2,2,612000,92,0,6652,Dubai Hills Estate
+3,2,1656000,162,1,10222,Downtown Dubai
+4,3,744000,197,0,3776,DIFC
+1,1,478800,79,0,6060,Business Bay
+3,2,540000,148,0,3648,Dubai Marina
+4,3,738000,145,0,5089,Mohammed Bin Rashid City
+2,1,549600,82,0,6702,Zabeel
+4,3,1126800,170,0,6628,Downtown Dubai
+2,1,216000,53,0,4075,Rukan
+2,1,667200,82,0,8136,Downtown Dubai
+1,1,348000,68,0,5117,Mohammed Bin Rashid City
+2,1,497533,76,0,6546,Business Bay
+3,2,516000,124,0,4161,Yas Island
+1,1,379200,72,0,5266,Mina Rashid
+1,1,252000,45,0,5600,Mohammed Bin Rashid City
+1,1,452880,62,0,7304,Business Bay
+3,2,216000,121,0,1785,Dubai Production City (IMPZ)
+2,1,174000,88,0,1977,Discovery Gardens
+3,2,571200,126,0,4533,Business Bay
+2,1,174000,70,1,2485,Dubai Sports City
+1,1,312000,44,0,7090,Business Bay
+1,1,378000,64,0,5906,Business Bay
+5,4,768000,270,0,2844,Town Square
+5,4,1176000,287,0,4097,Arabian Ranches 3
+1,1,208800,56,1,3728,Jumeirah Village Circle
+2,1,672000,75,1,8960,Dubai Marina
+3,2,2760000,392,1,7040,Deira
+3,2,1920000,159,0,12075,Palm Jumeirah
+2,2,1008000,131,0,7694,Umm Suqeim
+5,4,1488000,337,0,4415,Arabian Ranches 2
+3,2,1679999,157,1,10700,Downtown Dubai
+3,3,1884000,186,1,10129,Downtown Dubai
+7,6,3119997,511,0,6105,Meydan
+3,2,1248000,132,0,9454,Downtown Dubai
+2,2,355200,115,0,3088,Arjan
+7,5,8400000,891,1,9427,Mohammed Bin Rashid City
+3,3,1458000,209,0,6976,City Walk
+5,3,4800000,442,0,10859,Palm Jumeirah
+6,5,792000,195,0,4061,Damac Lagoons
+3,2,996000,124,0,8032,Jumeirah
+4,3,696000,145,0,4800,Arabian Ranches 3
+2,1,163200,75,0,2176,Dubai Residence Complex
+1,1,504000,67,0,7522,Umm Suqeim
+1,1,684000,87,0,7862,City Walk
+5,4,900000,187,0,4812,Mohammed Bin Rashid City
+7,7,2928000,676,0,4331,DAMAC Hills
+2,3,1200000,170,0,7058,Zabeel
+1,0,119999,47,0,2553,Dubai Production City (IMPZ)
+3,2,840000,166,0,5060,Palm Jumeirah
+2,1,384000,92,0,4173,Jumeirah Lake Towers
+3,2,336000,150,0,2240,Dubai Residence Complex
+4,3,611999,173,0,3537,The Valley
+3,2,624000,154,0,4051,Jumeirah Lake Towers
+1,0,264000,40,0,6600,Downtown Dubai
+3,3,336000,137,1,2452,Remraam
+2,1,156000,71,0,2197,Dubai Silicon Oasis
+1,1,239760,72,0,3330,Jumeirah Village Circle
+1,2,600000,87,0,6896,Mohammed Bin Rashid City
+2,2,456000,123,0,3707,Greens
+2,1,396000,90,1,4400,Dubai Marina
+5,4,684000,244,0,2803,Jumeirah Village Circle
+7,7,2880000,991,0,2906,Damac Lagoons
+6,5,2760000,576,0,4791,Motor City
+2,1,456000,75,0,6080,Business Bay
+7,6,18000000,2060,0,8737,Emirates Hills
+4,3,912000,307,0,2970,Motor City
+3,2,1044000,652,0,1601,Jumeirah Village Triangle
+3,2,597600,127,0,4705,Expo City
+2,1,240000,79,0,3037,Jumeirah Lake Towers
+2,1,468000,78,0,6000,Dubai Hills Estate
+1,0,161999,40,0,4049,Jumeirah Lake Towers
+3,2,1188000,222,0,5351,Deira
+3,3,552000,144,0,3833,Arabian Ranches 3
+3,3,575999,172,1,3348,Town Square
+4,2,528000,156,0,3384,Al Reem Island
+2,2,1032000,129,1,8000,Dubai Harbour
+4,3,1512000,153,0,9882,Dubai Marina
+4,3,1824000,236,1,7728,Dubai Marina
+1,1,504000,71,1,7098,Downtown Dubai
+4,3,1656000,262,0,6320,Dubai Creek Harbour (The Lagoons)
+3,2,360000,116,0,3103,Arjan
+4,4,1224000,228,0,5368,Dubai Hills Estate
+1,0,138000,38,0,3631,Al Barsha
+5,4,1872000,404,0,4633,Tilal Al Ghaf
+2,1,276000,74,0,3729,Meydan
+1,1,744000,81,0,9185,Umm Suqeim
+1,0,276000,44,0,6272,Jumeirah Village Circle
+3,2,768000,107,0,7177,Mina Rashid
+2,2,168000,95,0,1768,Dubai Land
+2,1,204000,60,0,3400,Jebel Ali
+1,1,172800,91,0,1898,Remraam
+3,2,312000,102,0,3058,Jebel Ali
+2,2,861600,222,0,3881,The Springs
+3,2,381600,130,0,2935,Al Furjan
+5,4,876000,193,0,4538,Arabian Ranches 3
+3,2,364800,131,0,2784,Al Furjan
+1,0,156000,49,1,3183,Jumeirah Village Triangle
+3,2,828000,135,0,6133,Dubai Marina
+5,5,1823760,368,0,4955,Arabian Ranches 2
+5,4,1728000,373,0,4632,Tilal Al Ghaf
+4,3,612000,161,0,3801,Arabian Ranches 3
+4,3,599999,184,0,3260,The Valley
+3,3,1908000,190,0,10042,Bluewaters
+1,1,312000,48,0,6500,Mohammed Bin Rashid City
+5,4,1056000,229,0,4611,Tilal Al Ghaf
+4,3,444000,135,0,3288,Town Square
+1,0,179280,42,1,4268,Dubai Sports City
+5,4,1173333,563,0,2084,Dubai South (Dubai World Central)
+1,0,288000,40,1,7200,Business Bay
+2,1,225600,64,0,3525,Jumeirah Village Circle
+1,1,504000,100,1,5040,Dubai Creek Harbour (The Lagoons)
+1,1,540000,70,0,7714,Umm Suqeim
+1,0,252000,42,0,6000,Dubai Marina
+1,0,420000,57,1,7368,Palm Jumeirah
+2,1,1224000,109,0,11229,Zabeel
+2,1,528000,93,0,5677,Business Bay
+1,0,201600,57,1,3536,Jumeirah Village Circle
+5,4,480000,112,0,4285,Damac Hills 2
+1,1,232800,52,0,4476,Arjan
+7,6,20160000,1310,1,15389,Palm Jumeirah
+3,3,876000,156,1,5615,Downtown Dubai
+1,0,79200,32,1,2475,Dubai Land
+3,2,1008000,119,0,8470,Mohammed Bin Rashid City
+3,2,5952000,179,1,33251,Jumeirah
+1,1,549600,68,0,8082,Zabeel
+3,3,1410000,132,0,10681,Dubai Creek Harbour (The Lagoons)
+3,3,1752000,194,1,9030,Dubai Harbour
+1,0,129600,40,1,3240,Al Furjan
+4,2,1296000,207,1,6260,Palm Jumeirah
+4,3,959976,150,0,6399,Mohammed Bin Rashid City
+1,1,156000,40,1,3900,DAMAC Hills
+4,4,10680000,352,0,30340,Jumeirah
+2,1,234960,79,0,2974,Al Furjan
+3,2,1029600,132,1,7800,Dubai Marina
+2,1,936000,95,0,9852,Palm Jumeirah
+7,7,7199999,1628,0,4422,DAMAC Hills
+1,0,223200,31,0,7200,Saadiyat Island
+2,2,1104000,108,1,10222,Dubai Harbour
+3,2,936000,128,0,7312,Dubai Creek Harbour (The Lagoons)
+2,2,456000,119,1,3831,Business Bay
+1,1,144000,44,0,3272,Dubai Sports City
+2,2,2064000,156,1,13230,Palm Jumeirah
+1,0,94800,38,0,2494,Dubai Silicon Oasis
+5,4,1320000,218,0,6055,Mohammed Bin Rashid City
+6,6,960000,431,0,2227,Damac Hills 2
+2,1,496080,84,0,5905,Mohammed Bin Rashid City
+2,1,252000,67,0,3761,Jumeirah Village Circle
+2,1,444000,84,0,5285,Mohammed Bin Rashid City
+5,4,1488000,248,0,6000,Mohammed Bin Rashid City
+2,1,231539,74,0,3128,Al Warsan
+3,2,744000,100,0,7440,Dubai Creek Harbour (The Lagoons)
+3,2,552000,106,0,5207,Mohammed Bin Rashid City
+1,0,153636,49,0,3135,Al Warsan
+6,5,612000,273,0,2241,Al Reef
+3,2,369086,119,0,3101,Al Warsan
+1,0,107760,46,1,2342,Dubai Production City (IMPZ)
+2,2,492000,92,0,5347,Dubai Hills Estate
+6,5,9120000,488,0,18688,Jumeirah
+1,0,144000,36,1,4000,Jebel Ali
+2,1,225360,67,0,3363,Jumeirah Village Circle
+3,2,912000,154,0,5922,Downtown Dubai
+1,1,504000,85,0,5929,Dubai Marina
+5,4,2328000,599,0,3886,Deira
+1,0,163200,35,1,4662,Dubai Marina
+2,2,744000,102,0,7294,Dubai Creek Harbour (The Lagoons)
+2,2,780000,99,1,7878,Downtown Dubai
+1,0,138000,37,0,3729,DAMAC Hills
+2,1,480000,64,0,7500,Dubai Marina
+3,2,348000,96,0,3625,Arjan
+4,3,1488000,334,0,4455,The Villa
+2,2,420000,107,0,3925,Greens
+5,4,768000,215,0,3572,Reem
+1,0,148800,35,0,4251,Dubai Production City (IMPZ)
+3,2,378000,114,1,3315,Jumeirah Village Circle
+1,1,672000,70,1,9600,Dubai Harbour
+2,1,528000,67,0,7880,Saadiyat Island
+2,2,588000,153,0,3843,Jumeirah Lake Towers
+6,5,3984000,290,1,13737,Downtown Dubai
+2,1,299999,73,1,4109,Business Bay
+1,0,204000,43,1,4744,Business Bay
+2,1,336000,73,1,4602,Jumeirah Village Circle
+6,4,9600000,1132,1,8480,Jumeirah
+4,3,1680000,186,1,9032,Downtown Dubai
+3,3,1200000,204,1,5882,Jumeirah Golf Estates
+6,5,2520000,446,0,5650,Dubai Sports City
+2,1,100800,68,0,1482,International City
+5,5,2160000,480,0,4500,Dubai Sports City
+1,0,108000,32,1,3375,Damac Hills 2
+3,2,1728000,162,1,10666,Downtown Dubai
+4,3,1272000,242,0,5256,Deira
+1,0,135600,46,0,2947,Dubai Production City (IMPZ)
+3,4,2085600,333,1,6263,Dubai Hills Estate
+1,0,180000,53,0,3396,Yas Island
+4,3,2760000,1007,0,2740,Jumeirah Park
+2,1,92400,68,0,1358,International City
+1,0,76800,43,1,1786,International City
+1,1,427200,70,0,6102,Mohammed Bin Rashid City
+4,3,474000,181,0,2618,The Valley
+3,4,911999,246,0,3707,Arabian Ranches 3
+4,3,540000,180,0,3000,Al Furjan
+3,2,503999,120,1,4199,Dubai Marina
+3,3,384000,134,0,2865,Town Square
+6,6,2280000,429,0,5314,Arabian Ranches
+3,2,780000,144,1,5416,Dubai Creek Harbour (The Lagoons)
+5,4,1524000,248,0,6145,Mohammed Bin Rashid City
+1,1,840000,72,1,11666,Dubai Creek Harbour (The Lagoons)
+6,5,600000,176,0,3409,Damac Hills 2
+2,2,450000,169,0,2662,Dubai Land
+2,1,336000,105,0,3200,Dubai Festival City
+2,2,600000,127,0,4724,Jumeirah Golf Estates
+2,1,912000,78,1,11692,Downtown Dubai
+2,1,684000,73,1,9369,Dubai Creek Harbour (The Lagoons)
+2,1,223200,69,1,3234,Jumeirah Village Circle
+1,0,139200,35,0,3977,Arjan
+1,0,312000,33,0,9454,Dubai Marina
+3,2,287760,89,1,3233,Jumeirah Village Circle
+2,2,1127999,134,1,8417,Dubai Harbour
+2,2,983999,103,1,9553,Dubai Harbour
+3,2,648000,151,0,4291,Jumeirah Golf Estates
+3,3,1222800,284,0,4305,Jumeirah Park
+5,4,1488000,248,0,6000,Mohammed Bin Rashid City
+4,3,1464000,284,0,5154,Jumeirah Park
+5,4,8160000,495,0,16484,Downtown Dubai
+1,1,276000,43,1,6418,Business Bay
+1,1,444000,66,1,6727,Dubai Creek Harbour (The Lagoons)
+2,2,744000,109,0,6825,Dubai Creek Harbour (The Lagoons)
+3,3,3120000,222,1,14054,Jumeirah Beach Residence
+3,2,436800,110,0,3970,Jumeirah Village Circle
+3,3,719999,201,0,3582,Arabian Ranches 3
+3,3,984000,236,0,4169,Arabian Ranches
+2,1,336000,52,0,6461,Business Bay
+3,3,1032000,206,0,5009,Dubai Hills Estate
+1,1,228000,72,0,3166,Jumeirah Village Triangle
+1,0,288000,44,1,6545,Business Bay
+3,2,1631760,146,1,11176,Downtown Dubai
+2,3,1253040,190,0,6594,DIFC
+1,2,480000,67,0,7164,Dubai Hills Estate
+2,2,1200000,118,0,10169,Downtown Dubai
+2,1,216000,80,0,2700,Majan
+1,0,115200,44,0,2618,Discovery Gardens
+4,3,576000,173,0,3329,The Valley
+4,3,1176000,177,0,6644,Mohammed Bin Rashid City
+1,1,210000,60,0,3500,Town Square
+3,2,1677600,159,1,10550,Downtown Dubai
+3,2,768000,124,0,6193,Mohammed Bin Rashid City
+2,1,287999,85,0,3388,Dubai Marina
+1,0,162000,37,1,4378,Jumeirah Village Circle
+1,1,792000,68,1,11647,Downtown Dubai
+2,1,432000,79,1,5468,Business Bay
+3,2,768000,111,1,6918,Mohammed Bin Rashid City
+2,2,456000,150,0,3040,Jumeirah Village Circle
+1,0,144000,34,0,4235,Arjan
+2,2,252000,97,0,2597,Jumeirah Village Circle
+4,3,1197600,246,0,4868,Nad Al Sheba
+4,3,906720,260,0,3487,Meydan
+1,1,180000,61,0,2950,Jumeirah Village Circle
+2,2,720000,102,1,7058,Downtown Dubai
+2,2,720000,114,0,6315,Dubai Creek Harbour (The Lagoons)
+2,2,717600,100,1,7176,Mohammed Bin Rashid City
+2,1,369600,93,0,3974,Jumeirah Village Circle
+5,6,11040000,1275,0,8658,Mohammed Bin Rashid City
+2,1,148800,59,0,2522,Dubai South (Dubai World Central)
+1,1,600000,80,0,7500,DIFC
+2,2,768000,110,1,6981,Mohammed Bin Rashid City
+4,3,1200000,175,0,6857,Downtown Dubai
+1,0,151200,39,1,3876,Arjan
+4,5,2760000,1858,0,1485,Nad Al Sheba
+1,1,540000,68,0,7941,Downtown Dubai
+1,1,468000,70,0,6685,City Walk
+3,3,1680000,679,0,2474,Jumeirah Park
+3,2,708000,144,1,4916,The Views
+1,1,345600,68,1,5082,Greens
+1,0,122400,42,1,2914,Dubai Sports City
+1,0,480000,51,1,9411,Downtown Dubai
+4,3,1488000,184,0,8086,Al Wasl
+5,4,1152000,359,0,3208,Al Furjan
+3,2,672000,144,1,4666,Business Bay
+2,2,408000,83,1,4915,Business Bay
+1,0,115200,47,0,2451,Living Legends
+3,2,1272000,150,0,8480,Dubai Marina
+3,3,1092000,151,1,7231,Downtown Dubai
+5,4,876000,303,0,2891,The Valley
+3,2,360000,133,0,2706,Dubai Sports City
+5,4,732000,276,0,2652,The Valley
+4,3,756000,299,0,2528,The Valley
+5,5,2076000,459,0,4522,Arabian Ranches
+2,1,264000,51,0,5176,Dubai Healthcare City
+1,0,264000,43,0,6139,Business Bay
+5,5,2808000,674,0,4166,Jumeirah Park
+7,6,16080000,929,1,17308,Mohammed Bin Rashid City
+1,0,234000,38,0,6157,Business Bay
+3,2,1500000,128,0,11718,DIFC
+2,1,744000,69,0,10782,DIFC
+1,1,504000,80,1,6300,Business Bay
+1,1,528000,90,1,5866,Downtown Dubai
+1,1,492000,85,0,5788,Downtown Dubai
+1,0,135600,46,0,2947,DAMAC Hills
+4,3,564000,199,0,2834,Town Square
+5,5,1080000,396,0,2727,Dubai South (Dubai World Central)
+5,3,1037040,276,1,3757,Dubai Marina
+2,1,276000,67,1,4119,Jumeirah Lake Towers
+4,3,564000,196,0,2877,Town Square
+3,2,734400,131,1,5606,Jumeirah Beach Residence
+3,2,588000,128,1,4593,Al Jaddaf
+5,5,3600000,574,0,6271,Arabian Ranches
+5,4,816000,226,0,3610,Dubai South (Dubai World Central)
+2,1,720000,102,0,7058,Downtown Dubai
+5,4,948000,290,0,3268,Arabian Ranches 3
+6,5,1008000,579,1,1740,Al Raha Gardens
+5,4,1560000,180,0,8666,Al Barari
+4,3,2519760,276,0,9129,Dubai Creek Harbour (The Lagoons)
+2,2,552000,104,0,5307,Dubai Creek Harbour (The Lagoons)
+1,0,201600,47,0,4289,Jumeirah Village Circle
+2,1,324000,64,0,5062,Mohammed Bin Rashid City
+5,5,3240000,408,0,7941,Arabian Ranches
+3,2,526800,126,0,4180,Jumeirah Golf Estates
+6,6,4440000,504,1,8809,Meydan
+3,2,527999,126,1,4190,Jumeirah Golf Estates
+1,0,156000,38,1,4105,Jumeirah Lake Towers
+3,2,840000,128,0,6562,Dubai Marina
+2,1,379200,66,0,5745,Dubai Marina
+2,2,718800,110,0,6534,Dubai Design District
+7,7,43200000,3158,0,13679,Mohammed Bin Rashid City
+3,2,552000,103,0,5359,Mohammed Bin Rashid City
+2,1,336000,101,0,3326,Jumeirah Village Triangle
+1,1,402000,75,1,5360,Dubai Marina
+5,4,1800000,373,0,4825,Tilal Al Ghaf
+3,2,1055999,161,0,6559,Palm Jumeirah
+3,2,384000,138,0,2782,Motor City
+3,3,1488000,167,0,8910,Downtown Dubai
+4,3,984000,400,0,2460,Dubai South (Dubai World Central)
+1,0,132000,34,0,3882,Jebel Ali
+3,3,636000,179,0,3553,DAMAC Hills
+2,1,444000,68,1,6529,Mohammed Bin Rashid City
+1,0,308533,42,1,7346,Business Bay
+1,0,288000,41,1,7024,Business Bay
+3,2,288000,99,0,2909,Al Furjan
+3,2,636000,153,0,4156,The Springs
+2,1,768000,80,1,9600,Dubai Marina
+3,2,840000,112,0,7500,Jumeirah
+3,3,840000,149,0,5637,Dubai Hills Estate
+4,3,696000,167,0,4167,Dubai Land
+4,4,756000,267,0,2831,Town Square
+1,1,294000,44,0,6681,Dubai Hills Estate
+3,2,720000,132,0,5454,Al Kifaf
+2,1,227999,68,0,3352,Jumeirah Village Circle
+2,2,163200,94,0,1736,International City
+1,1,263013,59,0,4457,DAMAC Hills
+3,2,1476000,173,0,8531,Palm Jumeirah
+1,0,162213,43,1,3772,DAMAC Hills
+1,1,192000,53,0,3622,Arjan
+2,2,312000,93,0,3354,Arjan
+1,1,276000,49,0,5632,Mohammed Bin Rashid City
+1,1,143013,40,0,3575,DAMAC Hills
+4,3,636000,128,0,4968,Arabian Ranches 3
+2,2,600000,94,1,6382,Greens
+5,4,846000,311,0,2720,Arabian Ranches 3
+2,1,324000,83,0,3903,Jumeirah Golf Estates
+2,1,276000,64,0,4312,DAMAC Hills
+1,0,160799,35,1,4594,Jumeirah Lake Towers
+1,0,144000,48,1,3000,Jumeirah Village Circle
+2,1,612000,86,0,7116,Downtown Dubai
+3,2,324000,108,1,3000,Al Furjan
+1,0,182160,38,1,4793,Jumeirah Lake Towers
+1,0,143760,45,0,3194,Jumeirah Village Circle
+5,4,4799999,495,0,9696,Jumeirah Islands
+5,4,13560000,735,0,18448,Business Bay
+1,0,108000,38,1,2842,Dubai Sports City
+6,4,3840000,356,0,10786,Al Wasl
+2,2,1560000,160,0,9750,Palm Jumeirah
+5,4,3240000,431,0,7517,Dubai Marina
+1,1,372000,62,0,6000,Dubai Hills Estate
+3,2,576000,103,0,5592,Dubai Marina
+3,2,792000,163,0,4858,Downtown Dubai
+2,1,600000,79,1,7594,Downtown Dubai
+2,1,343200,71,1,4833,Dubai Hills Estate
+3,2,576000,123,0,4682,Dubai Marina
+7,6,2877600,1021,0,2818,Damac Lagoons
+2,1,468000,82,0,5707,Dubai Hills Estate
+2,2,336000,92,0,3652,Dubai South (Dubai World Central)
+1,1,204000,61,0,3344,Town Square
+3,3,443999,189,0,2349,Damac Hills 2
+4,3,480000,182,0,2637,Al Furjan
+1,1,528000,57,1,9263,Dubai Marina
+2,1,576000,69,0,8347,Dubai Hills Estate
+1,1,432000,64,0,6750,Dubai Creek Harbour (The Lagoons)
+5,4,816000,233,0,3502,Dubai Land
+1,1,540000,72,0,7500,Jumeirah
+3,2,1692000,124,0,13645,Downtown Dubai
+5,3,1356000,191,1,7099,Dubai Marina
+3,2,744000,113,0,6584,Mohammed Bin Rashid City
+2,2,693600,93,0,7458,Downtown Dubai
+2,1,364800,64,0,5700,Mohammed Bin Rashid City
+1,1,228000,62,0,3677,Jumeirah Village Circle
+1,1,309600,47,0,6587,Mohammed Bin Rashid City
+1,0,120000,35,1,3428,Al Furjan
+7,5,4560000,692,0,6589,Deira
+4,3,1920000,266,0,7218,Dubai Marina
+1,1,516000,70,0,7371,Dubai Marina
+2,2,1260000,126,1,10000,Downtown Dubai
+3,3,1500000,304,0,4934,Dubai Marina
+2,1,719999,70,1,10285,Dubai Harbour
+3,2,815999,145,0,5627,Downtown Dubai
+2,1,384000,86,0,4465,Dubai Marina
+2,1,948000,159,1,5962,Palm Jumeirah
+4,3,3060000,222,0,13783,Dubai Harbour
+1,1,348000,60,0,5800,Dubai Hills Estate
+4,3,1188000,258,0,4604,Dubai Hills Estate
+4,3,624000,238,0,2621,Mudon
+1,0,136800,34,0,4023,Arjan
+7,6,3336000,663,0,5031,Wadi Al Safa 2
+2,1,240000,87,1,2758,DAMAC Hills
+1,1,564000,76,0,7421,City Walk
+4,2,886800,129,1,6874,Dubai Marina
+4,3,612000,268,0,2283,Barsha Heights (Tecom)
+6,5,3859200,441,0,8751,Mohammed Bin Rashid City
+2,2,504000,169,0,2982,Dubai Land
+4,4,672000,236,0,2847,Reem
+4,3,744000,201,0,3701,Dubai Marina
+5,3,384000,174,0,2206,Damac Hills 2
+5,3,2160000,173,0,12485,Jumeirah Beach Residence
+2,1,204000,83,0,2457,Jumeirah Lake Towers
+1,1,228000,59,1,3864,Jumeirah Lake Towers
+2,1,563760,86,0,6555,Business Bay
+4,4,960000,180,0,5333,DAMAC Hills
+7,6,2700000,836,0,3229,The Villa
+1,0,114000,41,0,2780,Dubai Residence Complex
+2,3,576000,176,0,3272,The Valley
+3,2,1176000,150,0,7840,Business Bay
+7,7,34788000,3636,1,9567,Dubai Hills Estate
+7,5,3000000,898,0,3340,Arabian Ranches
+2,2,1152000,116,1,9931,Downtown Dubai
+1,0,156000,30,0,5200,Meydan
+3,2,732000,127,0,5763,Dubai Marina
+3,2,384000,100,0,3840,Jumeirah Lake Towers
+3,3,1704000,181,0,9414,Jumeirah
+2,1,600000,103,1,5825,Palm Jumeirah
+4,3,1308000,250,0,5232,Dubai Hills Estate
+4,2,204000,136,0,1500,Dubai Investment Park (DIP)
+4,3,900000,229,0,3930,Dubai Marina
+5,5,3240000,445,0,7280,Dubai Sports City
+2,1,288000,89,1,3235,Business Bay
+4,3,3528000,494,0,7141,Dubai Marina
+4,3,1260000,212,1,5943,Dubai Hills Estate
+4,3,768000,211,0,3639,Dubai Land
+2,1,358800,82,0,4375,Mohammed Bin Rashid City
+3,2,336000,121,0,2776,Al Furjan
+5,4,2016000,214,0,9420,Dubai Marina
+2,1,264000,73,0,3616,Arjan
+3,2,1056000,154,0,6857,City Walk
+3,2,444000,165,0,2690,Jumeirah Village Triangle
+1,0,264000,37,1,7135,Jumeirah Lake Towers
+4,4,2640000,559,0,4722,Tilal Al Ghaf
+3,3,600000,187,0,3208,Town Square
+2,2,588000,112,0,5250,Emirates Hills 2
+3,2,312000,137,0,2277,Al Ghadeer
+2,1,813600,73,0,11145,Dubai Harbour
+4,3,504000,184,0,2739,Al Reem Island
+7,7,13920000,1828,0,7614,Emirates Hills
+2,1,516000,65,0,7938,Downtown Dubai
+4,5,2400000,532,0,4511,Jumeirah Golf Estates
+2,2,360000,94,0,3829,Rukan
+1,1,186000,91,0,2043,Remraam
+1,1,324000,44,0,7363,Dubai Hills Estate
+7,6,9480000,1399,0,6776,Tilal Al Ghaf
+2,2,528000,98,0,5387,Dubai Creek Harbour (The Lagoons)
+1,0,456000,63,0,7238,Business Bay
+2,1,934800,108,1,8655,Palm Jumeirah
+1,0,120000,39,1,3076,Al Furjan
+1,1,576000,76,0,7578,Downtown Dubai
+5,3,960000,200,1,4800,Downtown Dubai
+1,1,182400,62,0,2941,Downtown Jebel Ali
+3,2,960000,117,0,8205,Downtown Dubai
+2,2,516000,91,0,5670,Dubai Creek Harbour (The Lagoons)
+2,1,204000,73,1,2794,DAMAC Hills
+2,1,912000,138,1,6608,Palm Jumeirah
+5,4,648000,131,0,4946,Jumeirah Village Circle
+2,2,840000,116,0,7241,Umm Suqeim
+2,2,636000,120,0,5300,Dubai Marina
+2,1,218400,67,1,3259,Jumeirah Village Circle
+5,3,1800000,219,0,8219,Al Wasl
+1,1,216000,44,0,4909,Meydan
+4,4,720000,248,0,2903,Dubai South (Dubai World Central)
+1,0,120000,48,0,2500,Jumeirah Village Circle
+3,3,1272000,267,0,4764,Jumeirah Golf Estates
+4,3,576000,164,0,3512,Dubai Land
+2,1,840000,128,0,6562,Downtown Dubai
+3,3,552000,164,0,3365,Dubai Land
+1,0,138000,38,0,3631,Al Furjan
+5,3,1032000,240,1,4300,DAMAC Hills
+6,4,1080000,265,0,4075,Golf City
+1,0,144000,54,0,2666,DAMAC Hills
+1,0,195839,48,1,4079,Dubai Marina
+1,1,336000,74,0,4540,Mohammed Bin Rashid City
+3,3,804000,175,0,4594,Jumeirah Beach Residence
+1,1,136800,78,0,1753,Dubai Land
+3,2,1320000,143,1,9230,Downtown Dubai
+4,2,504000,156,1,3230,DAMAC Hills
+2,1,168000,62,0,2709,Dubai Studio City
+3,2,444000,124,0,3580,Arjan
+3,4,744000,219,0,3397,Arabian Ranches 3
+1,1,444000,51,0,8705,Business Bay
+2,2,861600,146,0,5901,Umm Suqeim
+4,3,1860480,171,1,10880,Downtown Dubai
+1,1,132000,62,0,2129,Dubai Production City (IMPZ)
+3,2,636000,128,1,4968,Business Bay
+1,0,134400,41,1,3278,Jumeirah Village Circle
+3,3,1008000,126,1,8000,Downtown Dubai
+2,1,182400,59,0,3091,Jumeirah Village Circle
+2,1,756000,94,1,8042,Palm Jumeirah
+1,1,300000,68,1,4411,Jumeirah Lake Towers
+2,1,768000,75,1,10240,Jumeirah Beach Residence
+2,2,888000,111,1,8000,Jumeirah
+3,2,957600,179,1,5349,Mohammed Bin Rashid City
+6,4,1608000,232,0,6931,Mohammed Bin Rashid City
+2,1,234000,78,1,3000,Jumeirah Village Circle
+3,2,933600,134,0,6967,Downtown Dubai
+3,2,960000,137,0,7007,Business Bay
+4,3,1127973,233,0,4841,Mohammed Bin Rashid City
+1,1,187200,70,1,2674,Dubai Sports City
+3,4,672000,210,0,3200,Damac Lagoons
+2,2,336000,88,0,3818,Arjan
+4,3,864000,150,0,5760,Dubai Creek Harbour (The Lagoons)
+7,5,2520000,548,0,4598,Tilal Al Ghaf
+5,4,2400000,469,0,5117,Wadi Al Safa 2
+6,5,3840000,658,0,5835,Mohammed Bin Rashid City
+5,4,888000,142,0,6253,Arabian Ranches 3
+1,0,134400,37,0,3632,Arjan
+6,4,2760000,297,1,9292,The Hills
+2,1,264000,76,0,3473,Jumeirah Lake Towers
+5,4,948000,186,0,5096,Meydan
+7,5,3360000,672,0,5000,Dubai South (Dubai World Central)
+2,2,600000,127,0,4724,Jumeirah Village Triangle
+1,1,648000,74,0,8756,Jumeirah
+2,1,175200,60,0,2920,Dubai Production City (IMPZ)
+6,4,647999,169,0,3834,Jumeirah Village Circle
+2,1,348000,71,0,4901,The Views
+2,1,307200,75,0,4096,Business Bay
+1,1,144000,75,1,1920,Dubai Production City (IMPZ)
+1,0,120000,46,0,2608,Dubai Production City (IMPZ)
+3,2,804000,192,1,4187,Dubai Creek Harbour (The Lagoons)
+1,0,324000,42,0,7714,Business Bay
+1,1,216000,48,0,4500,Meydan
+3,3,276000,158,0,1746,Damac Hills 2
+3,2,455760,116,0,3928,Business Bay
+2,1,204000,62,1,3290,Jumeirah Village Circle
+3,2,911999,129,0,7069,Downtown Dubai
+1,1,396000,74,0,5351,Old Town
+3,3,816000,162,1,5037,Business Bay
+2,2,672000,140,1,4800,Business Bay
+2,1,1032000,106,1,9735,Palm Jumeirah
+2,2,1068000,123,1,8682,Downtown Dubai
+1,1,432000,98,1,4408,Business Bay
+1,0,285600,45,0,6346,Business Bay
+1,0,161760,44,1,3676,Arjan
+6,5,8160000,621,1,13140,Palm Jumeirah
+3,3,1656000,422,0,3924,Dubai Hills Estate
+2,1,282000,80,0,3525,Jumeirah Village Triangle
+1,0,302400,47,1,6434,Business Bay
+6,5,2099973,558,0,3763,Arabian Ranches
+4,4,1008000,186,0,5419,Meydan
+1,1,360000,62,0,5806,Dubai Hills Estate
+2,1,864000,91,0,9494,Downtown Dubai
+1,0,134400,27,0,4977,Meydan
+1,0,384000,48,1,8000,Business Bay
+2,1,144000,62,1,2322,Dubai Production City (IMPZ)
+2,1,408000,68,1,6000,Jumeirah Lake Towers
+2,1,588000,69,0,8521,Dubai Hills Estate
+1,0,204000,37,0,5513,Meydan
+2,2,480000,93,0,5161,Dubai Creek Harbour (The Lagoons)
+1,0,156000,40,1,3900,Dubai Healthcare City
+5,4,936000,298,0,3140,Arabian Ranches 3
+1,0,146400,34,0,4305,Dubai South (Dubai World Central)
+1,0,117600,48,0,2450,Arjan
+5,4,864000,283,0,3053,The Valley
+2,2,300000,94,0,3191,Town Square
+5,3,1440000,199,0,7236,City Walk
+3,2,1344000,125,0,10752,Al Wasl
+1,1,708000,79,0,8962,Umm Suqeim
+2,1,228000,66,0,3454,Jumeirah Village Circle
+1,0,288000,43,1,6697,Business Bay
+5,4,2400000,739,1,3247,Jumeirah Park
+1,1,210000,60,0,3500,Jumeirah Village Circle
+3,3,1886400,308,0,6124,Arabian Ranches
+3,2,792000,241,0,3286,The Springs
+5,4,1248000,218,0,5724,Mohammed Bin Rashid City
+6,5,8400000,880,1,9545,The Lakes
+1,1,539760,61,0,8848,City Walk
+4,4,1608000,450,1,3573,Mohammed Bin Rashid City
+1,0,192000,38,1,5052,Mohammed Bin Rashid City
+3,2,792000,115,1,6886,Downtown Dubai
+2,1,456000,81,1,5629,Business Bay
+7,6,1440000,446,1,3228,Damac Lagoons
+4,4,648000,212,0,3056,Damac Lagoons
+4,4,540000,210,0,2571,Damac Lagoons
+3,2,648000,120,1,5400,Dubai Marina
+7,7,3000000,759,1,3952,Damac Lagoons
+4,3,1632000,292,0,5589,The Lakes
+1,1,552000,60,1,9200,Downtown Dubai
+3,2,960000,154,0,6233,Downtown Dubai
+1,0,276000,35,0,7885,Maritime City
+3,2,1404000,191,0,7350,Downtown Dubai
+2,2,480000,122,0,3934,Business Bay
+4,3,1032000,150,0,6880,Dubai Creek Harbour (The Lagoons)
+5,4,552000,143,0,3860,Damac Lagoons
+2,1,218400,70,1,3120,Dubai Marina
+4,4,504000,222,0,2270,Damac Hills 2
+5,4,756000,258,0,2930,Mudon
+3,3,612000,182,0,3362,Dubai Land
+2,2,432000,123,0,3512,Dubai Marina
+5,4,1080000,270,0,4000,Motor City
+3,2,696000,108,0,6444,Downtown Dubai
+6,5,2076000,833,0,2492,Jumeirah Park
+1,1,552000,71,0,7774,Zabeel
+1,1,276000,77,0,3584,Dubai Marina
+5,4,2496000,560,0,4457,Tilal Al Ghaf
+3,2,1245600,143,1,8710,Downtown Dubai
+2,2,252000,97,0,2597,Jumeirah Village Circle
+4,3,1080000,169,nan,6390,Dubai Creek Harbour (The Lagoons)
+3,2,660000,133,1,4962,Business Bay
+4,3,564240,179,0,3152,Arabian Ranches 3
+4,3,900000,223,0,4035,Dubai Marina
+5,4,756000,218,0,3467,Arabian Ranches 3
+3,2,213600,103,0,2073,Remraam
+1,1,129600,61,0,2124,Remraam
+3,2,1728000,226,0,7646,Palm Jumeirah
+3,2,1032000,119,0,8672,DIFC
+1,1,766800,78,0,9830,Dubai Harbour
+3,2,1200000,234,0,5128,Palm Jumeirah
+3,2,676800,116,0,5834,Downtown Dubai
+1,1,384000,83,0,4626,Downtown Dubai
+2,2,600000,167,0,3592,Dubai Marina
+2,1,960000,78,1,12307,Downtown Dubai
+4,3,1560000,170,1,9176,Downtown Dubai
+3,2,312000,122,0,2557,Dubai South (Dubai World Central)
+2,2,708000,93,1,7612,Downtown Dubai
+5,4,2400000,739,0,3247,Jumeirah Park
+2,1,756000,77,0,9818,Dubai Harbour
+5,4,936000,293,0,3194,Mohammed Bin Rashid City
+1,1,359520,83,1,4331,Jumeirah Lake Towers
+1,0,132000,35,1,3771,Al Furjan
+3,2,1128000,120,1,9400,Al Jaddaf
+2,1,156000,71,0,2197,Remraam
+2,1,444000,83,0,5349,Mohammed Bin Rashid City
+1,0,156000,38,1,4105,Jumeirah Lake Towers
+3,2,1560000,157,1,9936,Downtown Dubai
+3,2,1152000,120,1,9600,Al Jaddaf
+5,3,408000,151,1,2701,Damac Hills 2
+7,6,14760000,942,0,15668,Dubai Hills Estate
+4,2,780000,167,0,4670,Palm Jumeirah
+2,1,186000,119,0,1563,Dubai Investment Park (DIP)
+4,2,199200,134,0,1486,Dubai Investment Park (DIP)
+2,2,333600,93,0,3587,Jumeirah Lake Towers
+4,2,216000,152,0,1421,Dubai Investment Park (DIP)
+4,3,3120000,192,0,16250,Dubai Harbour
+5,4,1464000,371,0,3946,Jumeirah Golf Estates
+3,2,528000,75,0,7040,Business Bay
+4,4,552000,219,0,2520,Damac Lagoons
+3,3,1020000,203,0,5024,Jumeirah Golf Estates
+4,4,384000,112,0,3428,Damac Hills 2
+5,4,8040000,495,0,16242,Downtown Dubai
+2,1,336000,87,0,3862,Jumeirah Village Circle
+1,0,124800,40,0,3120,Dubai Sports City
+4,3,720000,213,0,3380,Dubai Land
+1,0,96000,42,0,2285,Dubai Residence Complex
+4,2,996000,170,0,5858,Palm Jumeirah
+2,1,420000,79,0,5316,Mohammed Bin Rashid City
+2,1,263760,65,0,4057,Meydan
+2,2,407999,83,0,4915,Business Bay
+3,3,1632000,132,1,12363,Dubai Creek Harbour (The Lagoons)
+1,1,232797,63,1,3695,Yas Island
+4,3,1440000,223,0,6457,Jumeirah Beach Residence
+4,4,1020000,227,0,4493,Al Furjan
+3,4,1020000,224,0,4553,Al Furjan
+3,2,840000,114,0,7368,Zabeel
+3,2,1320000,134,0,9850,Downtown Dubai
+2,3,552000,149,0,3704,Greens
+1,0,163200,36,0,4533,Meydan
+5,4,2640000,456,0,5789,Palm Jumeirah
+2,2,696000,206,0,3378,Meydan
+2,1,228000,75,0,3040,Jumeirah Village Circle
+2,1,288000,68,1,4235,Jumeirah Village Circle
+2,1,768000,92,0,8347,Deira
+3,2,2292000,171,0,13403,Downtown Dubai
+3,3,1020000,258,0,3953,Arabian Ranches
+3,2,696000,175,0,3977,Arabian Ranches
+5,4,1140000,249,0,4578,DAMAC Hills
+2,2,288000,85,0,3388,Jumeirah Lake Towers
+4,3,1320000,171,0,7719,Dubai Marina
+2,1,180000,89,0,2022,Discovery Gardens
+5,4,2760000,542,0,5092,The Oasis by Emaar
+7,5,1320000,414,0,3188,Dubai South (Dubai World Central)
+1,1,300000,44,0,6818,Dubai Hills Estate
+3,2,384000,112,0,3428,Rukan
+3,2,672000,130,0,5169,Yas Island
+4,3,1008000,246,0,4097,Expo City
+1,0,180000,43,1,4186,Dubai Marina
+3,2,503520,135,1,3729,DAMAC Hills
+6,6,2400000,621,0,3864,Dubai Sports City
+3,2,1189200,136,0,8744,City Walk
+4,3,912000,425,0,2145,Dubai South (Dubai World Central)
+2,2,750000,91,0,8241,Dubai Hills Estate
+1,0,114000,50,0,2280,Discovery Gardens
+4,4,767999,249,0,3084,Dubai Land
+1,1,276000,44,0,6272,Business Bay
+4,3,1680000,221,0,7601,Downtown Dubai
+7,5,7200000,872,0,8256,Al Barari
+4,3,648000,226,0,2867,Reem
+2,1,600000,70,0,8571,Zabeel
+2,2,288000,85,0,3388,Jumeirah Lake Towers
+4,2,1080000,143,0,7552,Mohammed Bin Rashid City
+4,3,708000,126,0,5619,Dubai Hills Estate
+3,3,432000,130,0,3323,Yas Island
+2,1,252000,123,0,2048,Jumeirah Village Circle
+4,3,1560000,527,0,2960,Jumeirah Park
+2,2,1032000,121,0,8528,Downtown Dubai
+4,3,720000,181,1,3977,Jumeirah Beach Residence
+4,3,528000,177,0,2983,Dubai South (Dubai World Central)
+1,1,396000,61,0,6491,Dubai Hills Estate
+3,3,372000,142,0,2619,Damac Hills 2
+2,2,373422,92,0,4058,DAMAC Hills
+3,3,244800,145,0,1688,Al Reef
+3,3,235200,132,0,1781,Al Reef
+2,1,852000,75,1,11360,Jumeirah Beach Residence
+2,1,215926,58,0,3722,DAMAC Hills
+2,1,336000,74,0,4540,Jumeirah Village Circle
+2,1,200736,59,0,3402,DAMAC Hills
+1,1,342000,69,1,4956,Greens
+2,2,612000,102,0,6000,Dubai Creek Harbour (The Lagoons)
+2,2,588000,103,0,5708,Dubai Creek Harbour (The Lagoons)
+3,4,1080000,305,0,3540,Dubai Sports City
+2,1,408000,101,0,4039,Culture Village
+2,1,324000,83,0,3903,Jumeirah Golf Estates
+4,3,1139999,147,0,7755,Downtown Dubai
+4,4,684000,209,0,3272,Dubai South (Dubai World Central)
+4,3,1908000,187,1,10203,Jumeirah
+5,4,1464000,252,0,5809,Jumeirah Beach Residence
+5,5,15360000,826,0,18595,Al Wasl
+5,4,684000,212,0,3226,Al Raha Beach
+3,3,3360000,254,1,13228,Dubai Marina
+5,4,2040000,242,1,8429,Downtown Dubai
+2,1,330000,69,1,4782,Mohammed Bin Rashid City
+4,3,1068000,175,0,6102,Expo City
+3,2,432000,130,0,3323,Al Raha Beach
+1,0,120000,49,1,2448,Dubai South (Dubai World Central)
+4,3,648000,152,0,4263,Dubai Marina
+3,2,912000,111,0,8216,Jumeirah
+3,2,297600,133,0,2237,Jumeirah Village Circle
+2,1,213600,60,0,3560,Jumeirah Village Circle
+6,5,4080000,731,1,5581,Arabian Ranches
+6,5,720000,219,0,3287,Damac Lagoons
+4,3,564000,179,0,3150,Motor City
+3,2,288000,108,0,2666,Al Reem Island
+2,2,528000,107,0,4934,Dubai Marina
+2,1,228000,60,0,3800,Jumeirah Village Circle
+2,2,792000,97,0,8164,Downtown Dubai
+3,3,360000,124,1,2903,Town Square
+1,1,360000,60,0,6000,Dubai Hills Estate
+2,1,180000,87,0,2068,Jumeirah Village Circle
+3,2,708000,124,0,5709,Al Kifaf
+3,3,1080000,323,0,3343,DAMAC Hills
+1,0,156000,27,0,5777,Meydan
+1,1,480000,66,0,7272,Palm Jumeirah
+2,2,648000,112,0,5785,Dubai Creek Harbour (The Lagoons)
+1,0,156000,58,0,2689,International City
+4,4,1248000,373,0,3345,Dubai Land
+1,1,468000,91,0,5142,Umm Suqeim
+1,1,312000,56,0,5571,Mohammed Bin Rashid City
+4,3,1079880,288,0,3749,Nad Al Sheba
+1,1,288000,39,0,7384,Jumeirah Lake Towers
+4,3,468000,129,0,3627,Yas Island
+2,1,192000,89,0,2157,Discovery Gardens
+2,3,456000,122,1,3737,Jumeirah Lake Towers
+4,4,2280000,595,0,3831,Deira
+6,4,6000000,506,0,11857,Jumeirah Islands
+4,4,1116000,279,0,4000,Mudon
+5,4,2520000,306,0,8235,Downtown Dubai
+5,4,2208000,703,1,3140,Arabian Ranches
+1,0,129600,37,1,3502,Al Furjan
+2,1,192000,55,0,3490,Arjan
+1,1,504000,87,0,5793,Al Sufouh
+4,3,912000,227,0,4017,Al Furjan
+2,1,311999,74,0,4216,Al Furjan
+7,6,6720000,974,0,6899,Tilal Al Ghaf
+1,1,278400,83,0,3354,Al Muhaisnah
+1,1,252000,76,0,3315,Al Barsha
+5,4,960000,363,0,2644,The Valley
+1,0,135600,43,1,3153,Arjan
+2,2,672000,102,0,6588,Dubai Hills Estate
+3,2,276000,113,0,2442,Dubai Land
+3,3,672000,214,0,3140,Arabian Ranches 3
+3,2,2128800,148,1,14383,Jumeirah Beach Residence
+7,5,2136000,706,0,3025,Jebel Ali
+4,4,1128000,258,0,4372,Mohammed Bin Rashid City
+5,3,1152000,174,1,6620,Old Town
+5,4,2592000,556,0,4661,Tilal Al Ghaf
+5,4,2280000,449,1,5077,Dubai Hills Estate
+3,3,1440000,148,1,9729,Dubai Creek Harbour (The Lagoons)
+1,0,276000,40,1,6900,Business Bay
+1,0,114000,30,1,3800,DAMAC Hills
+2,1,480000,71,0,6760,Mohammed Bin Rashid City
+2,2,263997,82,0,3219,Jumeirah Village Circle
+5,4,648000,332,0,1951,Jumeirah Village Circle
+2,2,1008000,113,0,8920,Umm Suqeim
+2,2,1152000,102,0,11294,Umm Suqeim
+2,1,383999,65,1,5907,Business Bay
+3,2,1560000,155,0,10064,Bluewaters
+5,4,1320000,254,0,5196,Al Sufouh
+5,4,960000,289,0,3321,Dubai Land
+5,4,3215997,502,1,6406,Al Sufouh
+2,1,708000,74,1,9567,Bluewaters
+1,0,277200,42,0,6600,Business Bay
+3,2,384000,82,0,4682,Business Bay
+2,1,468000,76,1,6157,Dubai Marina
+1,1,348000,60,0,5800,Dubai Hills Estate
+2,2,383999,91,1,4219,Dubai Marina
+2,1,768000,74,1,10378,Downtown Dubai
+2,1,228000,74,1,3081,Jumeirah Village Circle
+2,2,1032000,130,0,7938,Jumeirah
+3,2,612000,126,1,4857,Business Bay
+4,3,2057072,255,0,8066,Deira
+2,2,1656000,137,0,12087,Palm Jumeirah
+3,3,1176000,152,0,7736,Downtown Dubai
+2,2,732000,127,0,5763,Dubai Creek Harbour (The Lagoons)
+2,2,175200,106,0,1652,Al Reef
+1,1,312000,74,0,4216,Damac Lagoons
+3,2,648000,155,0,4180,Mohammed Bin Rashid City
+2,2,432000,61,0,7081,Meydan
+5,4,1354080,212,0,6387,Mohammed Bin Rashid City
+5,4,3840000,693,0,5541,Dubai Hills Estate
+4,3,648000,201,0,3223,Arabian Ranches 3
+2,2,281999,82,1,3439,Jumeirah Village Circle
+4,4,1799999,452,0,3982,Tilal Al Ghaf
+3,2,600000,124,0,4838,Jumeirah Lake Towers
+2,1,336000,83,0,4048,Mohammed Bin Rashid City
+1,0,202800,36,0,5633,Jumeirah Village Circle
+1,1,126000,78,0,1615,Dubai Land
+5,4,7920000,684,0,11578,Palm Jumeirah
+2,2,717600,110,0,6523,Dubai Creek Harbour (The Lagoons)
+1,1,240000,65,0,3692,Meydan
+3,2,444000,122,1,3639,Jumeirah Lake Towers
+3,3,504000,174,0,2896,The Valley
+2,2,1581600,136,0,11629,Palm Jumeirah
+1,0,168000,37,0,4540,Dubai Marina
+2,2,525600,97,0,5418,Dubai Hills Estate
+7,4,3552000,580,0,6124,Mohammed Bin Rashid City
+5,3,900000,213,0,4225,Arabian Ranches 2
+3,2,852000,108,0,7888,Zabeel
+2,2,268800,64,0,4200,Jumeirah Lake Towers
+1,2,264000,70,0,3771,Wasl Gate
+2,2,816000,114,0,7157,Dubai Marina
+1,0,148800,37,0,4021,DAMAC Hills
+2,2,252000,93,0,2709,Dubai South (Dubai World Central)
+1,0,156000,37,0,4216,DAMAC Hills
+2,1,372000,94,1,3957,Jumeirah Village Circle
+2,2,840000,105,0,8000,Downtown Dubai
+1,0,129600,37,0,3502,DAMAC Hills
+3,2,480000,76,0,6315,Business Bay
+1,0,148800,37,0,4021,DAMAC Hills
+1,0,138000,31,0,4451,DAMAC Hills
+4,4,1596000,408,0,3911,Green Community
+1,1,229200,47,0,4876,Yas Island
+3,3,792000,199,0,3979,Tilal Al Ghaf
+3,3,660000,179,0,3687,Arabian Ranches 3
+2,2,768000,91,nan,8439,Downtown Dubai
+2,1,220800,68,0,3247,Jumeirah Village Circle
+2,1,264000,71,0,3718,Dubai Silicon Oasis
+3,3,289680,98,0,2955,Al Reem Island
+3,3,1248000,153,0,8156,Dubai Marina
+3,2,1200000,134,1,8955,Downtown Dubai
+2,1,211200,82,0,2575,Jumeirah Lake Towers
+6,5,6960000,589,1,11816,Jumeirah Islands
+5,3,5280000,353,0,14957,Zabeel
+3,2,718800,172,0,4179,The Springs
+5,4,2040000,364,0,5604,Mohammed Bin Rashid City
+3,3,840000,262,0,3206,Al Furjan
+3,2,672000,100,1,6720,Mohammed Bin Rashid City
+2,1,179997,64,0,2812,Al Reem Island
+1,0,155976,39,1,3999,Al Reem Island
+6,5,1056000,305,0,3462,Yas Island
+2,1,336000,85,0,3952,Al Furjan
+1,0,126000,46,1,2739,Arjan
+2,2,900000,107,0,8411,Downtown Dubai
+1,1,439200,53,1,8286,Downtown Dubai
+1,1,306000,46,0,6652,Dubai Hills Estate
+2,1,672000,83,0,8096,Downtown Dubai
+1,1,405600,65,0,6240,Dubai Hills Estate
+2,1,280800,70,0,4011,Al Furjan
+2,2,468000,107,0,4373,Greens
+4,4,1416000,447,0,3167,Arabian Ranches 3
+4,3,576000,167,0,3449,Dubai Marina
+4,5,4068000,567,1,7174,Jumeirah Golf Estates
+1,1,408000,57,1,7157,Mohammed Bin Rashid City
+1,0,216000,44,1,4909,Business Bay
+4,4,1320000,316,0,4177,Tilal Al Ghaf
+6,5,15600000,650,0,24000,Palm Jumeirah
+7,7,2220000,702,0,3162,Damac Lagoons
+2,3,1680000,357,0,4705,Deira
+4,4,888000,241,0,3684,Mudon
+2,2,544800,140,1,3891,Business Bay
+2,1,600000,70,0,8571,Downtown Dubai
+1,0,288000,30,1,9600,Barsha Heights (Tecom)
+3,4,816000,240,0,3400,Dubai South (Dubai World Central)
+1,0,312000,46,0,6782,Saadiyat Island
+3,2,816000,119,1,6857,Jumeirah
+2,1,192000,61,0,3147,Jumeirah Lake Towers
+1,1,288000,73,0,3945,Dubai Sports City
+2,2,184800,104,0,1776,Al Reef
+6,5,2136000,814,1,2624,Falcon City of Wonders
+6,5,2856000,1169,0,2443,The Villa
+1,0,120000,31,1,3870,Al Furjan
+2,2,720000,92,1,7826,Downtown Dubai
+2,2,204000,101,0,2019,Dubai Land
+1,1,144000,78,0,1846,Dubai Land
+2,2,696000,93,1,7483,Downtown Dubai
+7,6,960000,432,0,2222,Damac Hills 2
+1,0,108000,36,0,3000,Dubai South (Dubai World Central)
+1,1,480000,90,1,5333,Downtown Dubai
+6,5,864000,228,0,3789,Damac Hills 2
+3,3,861600,199,0,4329,Tilal Al Ghaf
+5,4,2520000,546,0,4615,Deira
+3,2,180000,90,0,2000,Dubai Production City (IMPZ)
+5,3,840000,271,0,3099,Dubai South (Dubai World Central)
+3,2,672000,171,1,3929,Business Bay
+4,3,576000,153,0,3764,Dubai Land
+6,4,4440000,501,0,8862,Jumeirah Islands
+5,4,480000,257,0,1867,Dubai Investment Park (DIP)
+3,3,324000,123,1,2634,Dubai Land
+1,1,477600,77,1,6202,Mohammed Bin Rashid City
+4,3,864000,140,0,6171,Tilal Al Ghaf
+5,5,8160000,464,1,17586,Palm Jumeirah
+2,1,96000,64,0,1500,Al Warsan
+3,2,642240,113,1,5683,Al Wasl
+1,0,155999,37,1,4216,Jumeirah Lake Towers
+2,2,558000,140,1,3985,Business Bay
+4,3,792000,251,0,3155,Dubai Land
+4,3,2280000,187,1,12192,Downtown Dubai
+2,1,408000,73,0,5589,Dubai Marina
+4,3,1608000,183,1,8786,Downtown Dubai
+1,0,264000,44,1,6000,Business Bay
+1,1,480000,67,1,7164,Dubai Creek Harbour (The Lagoons)
+1,1,344400,57,0,6042,Mohammed Bin Rashid City
+4,2,1116000,122,0,9147,Palm Jumeirah
+3,2,600000,125,0,4800,Downtown Dubai
+1,1,360000,70,1,5142,Greens
+2,2,496800,98,0,5069,Dubai Creek Harbour (The Lagoons)
+3,3,383999,112,1,3428,Damac Hills 2
+2,1,174000,59,0,2949,Dubai South (Dubai World Central)
+1,0,153600,34,1,4517,Arjan
+2,2,672000,112,0,6000,Dubai Hills Estate
+5,4,912000,225,0,4053,Arabian Ranches 3
+4,3,912000,352,0,2590,Serena
+3,3,1128000,238,0,4739,Dubai Creek Harbour (The Lagoons)
+1,1,636000,83,0,7662,Downtown Dubai
+2,2,686400,103,0,6664,Dubai Creek Harbour (The Lagoons)
+6,5,5040000,929,0,5425,Tilal Al Ghaf
+2,3,1560000,267,0,5842,The Springs
+5,4,1319999,387,0,3410,Dubai Sports City
+4,3,540000,141,0,3829,Dubai South (Dubai World Central)
+1,0,144000,34,1,4235,Arjan
+3,2,900000,111,0,8108,Dubai Marina
+1,1,412800,69,0,5982,Dubai Hills Estate
+5,4,1080000,187,0,5775,Mohammed Bin Rashid City
+5,4,840000,226,0,3716,Dubai Land
+2,2,1320000,119,0,11092,Dubai Harbour
+7,6,15600000,918,1,16993,Mohammed Bin Rashid City
+3,2,672000,157,0,4280,Mohammed Bin Rashid City
+4,3,792000,187,0,4235,Mohammed Bin Rashid City
+3,2,504000,105,0,4800,Mohammed Bin Rashid City
+2,2,312000,86,0,3627,Town Square
+2,1,180000,81,0,2222,Dubai Silicon Oasis
+1,0,228000,57,1,4000,Jumeirah Lake Towers
+1,1,840000,60,0,14000,DIFC
+5,4,636000,243,0,2617,The Valley
+4,3,1428000,200,0,7140,Dubai Creek Harbour (The Lagoons)
+4,4,1248000,308,0,4051,Wasl Gate
+2,2,480000,109,0,4403,Meydan
+1,0,142080,34,0,4178,Arjan
+2,2,282000,86,0,3279,Town Square
+1,1,240000,45,0,5333,Mohammed Bin Rashid City
+3,2,1368000,141,1,9702,Downtown Dubai
+2,1,576000,71,1,8112,Zabeel
+2,1,227760,89,0,2559,Al Reem Island
+1,0,151680,36,0,4213,Jumeirah Lake Towers
+1,1,232128,69,0,3364,DAMAC Hills
+2,1,204000,77,0,2649,Jumeirah Village Circle
+4,3,1440000,140,0,10285,Downtown Dubai
+1,1,138000,61,0,2262,Remraam
+3,3,996000,226,0,4407,Palm Jumeirah
+3,2,288000,137,0,2102,Remraam
+1,1,400800,60,1,6680,Dubai Hills Estate
+2,1,379200,82,0,4624,Jumeirah Lake Towers
+1,1,402000,73,0,5506,Business Bay
+2,3,1200000,195,0,6153,Downtown Dubai
+1,0,936000,53,1,17660,Jumeirah Beach Residence
+1,1,240000,59,0,4067,Jumeirah Lake Towers
+2,1,359760,74,1,4861,Dubai Marina
+4,3,2232000,164,1,13609,Downtown Dubai
+1,1,360000,98,0,3673,Dubai Marina
+1,0,70800,44,0,1609,International City
+1,0,68400,42,0,1628,International City
+7,6,10800000,1313,0,8225,Dubai Hills Estate
+3,2,984000,117,0,8410,City Walk
+1,0,156000,40,0,3900,Arjan
+2,1,648000,111,0,5837,City Walk
+4,3,528000,176,0,3000,The Valley
+2,2,743999,113,0,6584,Dubai Marina
+5,4,5998800,521,1,11514,City Walk
+1,1,180000,109,0,1651,Remraam
+1,0,146400,36,0,4066,Arjan
+3,2,660000,118,0,5593,Mohammed Bin Rashid City
+7,6,2520000,689,1,3657,Dubai Sports City
+1,1,444000,65,1,6830,Dubai Creek Harbour (The Lagoons)
+2,1,288000,89,1,3235,Jumeirah Lake Towers
+2,1,312000,90,1,3466,Jumeirah Village Circle
+4,3,936000,177,0,5288,Mohammed Bin Rashid City
+7,5,1632000,547,0,2983,Al Reem Island
+4,4,1200000,202,0,5940,Dubai Hills Estate
+5,5,2639999,433,0,6096,Wadi Al Safa 2
+5,3,792000,252,0,3142,DAMAC Hills
+2,2,210000,115,0,1826,Dubai Land
+1,1,600000,72,0,8333,Dubai Creek Harbour (The Lagoons)
+2,1,480000,85,0,5647,Dubai Hills Estate
+1,1,636000,83,0,7662,Downtown Dubai
+4,4,744000,271,0,2745,Town Square
+4,3,552000,173,0,3190,Town Square
+2,2,828000,103,0,8038,Dubai Creek Harbour (The Lagoons)
+6,5,2760000,660,0,4181,The Villa
+4,4,348000,155,0,2245,Damac Hills 2
+3,2,768000,120,1,6400,Dubai Marina
+2,2,552000,112,0,4928,Dubai Creek Harbour (The Lagoons)
+1,0,141600,56,0,2528,Jumeirah Village Circle
+2,2,528000,108,0,4888,Dubai Creek Harbour (The Lagoons)
+2,1,372000,87,1,4275,Business Bay
+2,2,444000,119,1,3731,Jumeirah Beach Residence
+1,1,360000,74,0,4864,Dubai Creek Harbour (The Lagoons)
+2,1,1080000,135,0,8000,Saadiyat Island
+4,4,984000,187,0,5262,Mohammed Bin Rashid City
+4,3,2218414,166,0,13363,Dubai Harbour
+2,1,853378,68,0,12549,Dubai Harbour
+2,2,1512000,118,0,12813,Downtown Dubai
+2,1,764458,68,0,11242,Dubai Harbour
+3,2,1068000,161,0,6633,Downtown Dubai
+3,3,888000,151,1,5880,Dubai Marina
+7,5,9720000,692,0,14046,Downtown Dubai
+2,1,174000,71,0,2450,Dubai Studio City
+5,4,2616000,262,1,9984,City Walk
+3,2,354000,138,0,2565,Jumeirah Village Circle
+4,3,756000,238,0,3176,Mudon
+4,3,840000,187,0,4491,Meydan
+5,4,528000,143,0,3692,Damac Lagoons
+2,2,573600,106,0,5411,Dubai Creek Harbour (The Lagoons)
+1,1,372000,60,0,6200,Dubai Hills Estate
+1,1,624000,75,0,8320,Dubai Harbour
+1,0,140160,32,0,4380,Arjan
+3,2,516000,161,0,3204,Dubai Marina
+1,0,151200,29,0,5213,Meydan
+0,1,496800,78,0,6369,Mohammed Bin Rashid City
+1,0,234000,39,1,6000,Business Bay
+1,1,768000,77,0,9974,Dubai Harbour
+4,3,2184000,180,1,12133,Jumeirah Beach Residence
+1,1,407998,76,0,5368,Dubai Creek Harbour (The Lagoons)
+1,1,336000,73,0,4602,Meydan
+1,1,199200,63,1,3161,Town Square
+3,2,1103988,190,1,5810,Palm Jumeirah
+2,2,456000,69,0,6608,Dubai Hills Estate
+5,4,1176000,201,0,5850,Dubai Hills Estate
+2,1,381600,65,1,5870,Business Bay
+1,1,528000,67,0,7880,Jumeirah
+1,1,396000,62,1,6387,Dubai Creek Harbour (The Lagoons)
+2,2,360000,94,0,3829,Jumeirah Village Circle
+1,0,134400,37,0,3632,DAMAC Hills
+2,1,216000,73,0,2958,Rukan
+3,2,647997,111,1,5837,Yas Island
+3,2,4128000,190,0,21726,Palm Jumeirah
+4,3,1416000,226,0,6265,Palm Jumeirah
+2,1,396000,85,0,4658,Downtown Dubai
+3,2,204000,101,0,2019,Dubai Sports City
+2,2,384000,102,0,3764,Al Jaddaf
+4,3,816000,180,0,4533,Arabian Ranches 2
+1,0,129600,46,1,2817,Arjan
+3,3,984000,254,0,3874,Al Furjan
+4,3,600000,168,0,3571,Mudon
+3,3,480000,132,1,3636,Al Jaddaf
+2,2,228000,93,0,2451,Remraam
+2,1,237600,69,0,3443,Arjan
+2,1,156000,63,0,2476,Dubai Silicon Oasis
+5,4,1728000,408,0,4235,Al Furjan
+2,2,480000,78,0,6153,Mohammed Bin Rashid City
+5,4,1728000,408,0,4235,Al Furjan
+5,4,2880000,639,0,4507,Tilal Al Ghaf
+3,3,984000,137,0,7182,Jumeirah Golf Estates
+1,0,312000,46,1,6782,Downtown Dubai
+6,4,3000000,571,0,5253,Jumeirah Beach Residence
+3,2,1740000,152,0,11447,Downtown Dubai
+5,4,1296000,457,0,2835,DAMAC Hills
+4,3,612000,192,0,3187,The Valley
+3,2,302400,113,0,2676,Al Furjan
+2,1,540000,92,0,5869,Dubai Marina
+4,3,516000,178,0,2898,The Valley
+4,4,1020000,225,0,4533,Al Furjan
+5,4,864000,330,0,2618,The Valley
+2,2,888000,172,0,5162,The Springs
+5,4,4320000,664,0,6506,Jumeirah Golf Estates
+1,0,160800,36,0,4466,Jumeirah Village Circle
+2,1,432000,71,0,6084,Mohammed Bin Rashid City
+1,1,336000,89,0,3775,Business Bay
+4,3,1344000,186,1,7225,Downtown Dubai
+2,1,216000,63,0,3428,Business Bay
+2,1,252000,72,0,3500,Al Reem Island
+3,2,660000,113,0,5840,Mohammed Bin Rashid City
+2,2,144000,103,1,1398,Dubai Land
+6,4,1200000,560,0,2142,Mudon
+2,1,468000,98,0,4775,Mohammed Bin Rashid City
+2,2,444000,117,0,3794,Business Bay
+1,2,972000,148,0,6567,Umm Suqeim
+1,1,412800,70,0,5897,Maritime City
+1,0,264000,37,1,7135,Business Bay
+1,0,154800,35,0,4422,Al Furjan
+2,2,175200,104,0,1684,Al Reef
+3,3,244800,145,0,1688,Al Reef
+2,1,283200,125,0,2265,Al Reem Island
+4,4,1679997,511,0,3287,Arabian Ranches 3
+2,2,431999,126,0,3428,Business Bay
+1,0,343199,40,0,8579,Business Bay
+3,2,566400,187,1,3028,Arjan
+3,3,600000,192,0,3125,Serena
+2,1,239999,58,0,4137,Jumeirah Village Circle
+5,4,1536000,375,0,4096,Al Furjan
+3,3,948000,141,0,6723,Dubai Hills Estate
+6,4,2159997,442,0,4886,Saadiyat Island
+2,2,474000,93,0,5096,Dubai Hills Estate
+5,4,1800000,322,0,5590,Al Furjan
+1,1,587999,73,0,8054,Dubai Harbour
+2,1,369600,76,0,4863,Mohammed Bin Rashid City
+2,1,156000,57,1,2736,Dubai South (Dubai World Central)
+4,4,1199999,419,0,2863,Jebel Ali
+3,2,1296000,157,0,8254,Palm Jumeirah
+2,2,1104000,157,0,7031,Dubai Marina
+7,7,4080000,1743,1,2340,The Villa
+3,2,1439999,134,1,10746,Downtown Dubai
+4,3,528000,160,0,3300,Al Reem Island
+3,4,600000,143,0,4195,Damac Lagoons
+6,5,7200000,1431,0,5031,Jumeirah Golf Estates
+2,1,245752,90,0,2730,Dubai Production City (IMPZ)
+1,1,228000,50,0,4560,Business Bay
+2,2,329040,121,0,2719,Dubai Production City (IMPZ)
+1,2,431999,68,0,6352,Dubai Hills Estate
+3,2,552000,103,0,5359,Dubai Marina
+3,3,672000,175,0,3840,Dubai Land
+2,2,348000,98,1,3551,Al Furjan
+4,4,840000,262,0,3206,Mudon
+5,4,6600000,640,1,10312,Palm Jumeirah
+1,0,141600,39,1,3630,Arjan
+4,4,792000,205,0,3863,Dubai Land
+1,0,156000,34,1,4588,Meydan
+2,1,191999,73,1,2630,Al Furjan
+1,0,309600,39,0,7938,Maritime City
+4,2,1032000,189,0,5460,Palm Jumeirah
+7,5,1920000,425,0,4517,Al Furjan
+1,1,360000,60,0,6000,Dubai Hills Estate
+2,1,336000,57,0,5894,Dubai Healthcare City
+6,5,3600000,682,0,5278,Tilal Al Ghaf
+4,3,348000,139,0,2503,Damac Hills 2
+3,2,1080000,100,1,10800,Downtown Dubai
+2,1,156000,71,0,2197,Dubai Silicon Oasis
+3,2,2160000,137,1,15766,Jumeirah Beach Residence
+3,3,552000,167,1,3305,Dubai Marina
+2,1,312000,73,0,4273,Jumeirah Village Circle
+2,1,321600,91,0,3534,Arjan
+3,3,240000,132,0,1818,Al Reef
+4,3,1128000,165,0,6836,Dubai Creek Harbour (The Lagoons)
+3,3,1008000,209,0,4822,The Springs
+4,3,1152000,185,0,6227,The Springs
+1,1,468000,67,0,6985,Saadiyat Island
+4,4,959999,257,0,3735,Mohammed Bin Rashid City
+2,2,756000,115,0,6573,Downtown Dubai
+3,2,1200000,158,0,7594,Palm Jumeirah
+4,3,2640000,615,0,4292,Dubai Marina
+3,3,948000,260,0,3646,Al Furjan
+1,0,204000,60,0,3400,Barsha Heights (Tecom)
+3,2,552000,129,0,4279,The Views
+3,3,1488000,153,0,9725,Dubai Marina
+1,0,115200,35,1,3291,Al Furjan
+1,0,324000,48,0,6750,Business Bay
+2,2,1152000,149,0,7731,Deira
+2,1,813600,68,0,11964,Dubai Harbour
+3,3,576000,181,0,3182,Dubai South (Dubai World Central)
+5,4,744000,155,0,4800,Jumeirah Village Circle
+1,1,240000,81,0,2962,Jumeirah Village Circle
+2,1,249600,84,0,2971,Arjan
+4,4,684000,236,0,2898,Reem
+1,1,768000,85,1,9035,Jumeirah Beach Residence
+5,4,2640000,588,0,4489,Mohammed Bin Rashid City
+2,2,744000,93,0,8000,Downtown Dubai
+3,2,332400,111,0,2994,Dubai Residence Complex
+2,1,384000,131,0,2931,Jumeirah Lake Towers
+4,3,636000,173,0,3676,Dubai Land
+3,2,861600,166,0,5190,The Springs
+2,1,252000,76,1,3315,Jumeirah Lake Towers
+3,2,935999,153,0,6117,The Springs
+1,1,600000,70,0,8571,Zabeel
+7,5,16800000,1347,1,12472,Dubai Hills Estate
+3,2,1151999,113,0,10194,Dubai Harbour
+1,0,200400,32,0,6262,Meydan
+4,3,1198800,267,0,4489,Jumeirah Golf Estates
+1,0,192000,36,0,5333,Meydan
+1,0,178800,32,0,5587,Meydan
+3,2,864000,119,0,7260,Old Town
+1,0,154800,32,0,4837,Al Jaddaf
+2,1,220800,83,1,2660,Jumeirah Lake Towers
+1,1,384000,64,0,6000,Mohammed Bin Rashid City
+3,2,435900,134,0,3252,DAMAC Hills
+3,2,588000,97,0,6061,Mohammed Bin Rashid City
+3,2,684000,140,0,4885,Downtown Dubai
+5,4,8640000,415,1,20819,Dubai Harbour
+1,0,156000,41,0,3804,Jumeirah Village Circle
+1,1,384000,95,0,4042,Downtown Dubai
+1,0,525600,47,1,11182,Palm Jumeirah
+5,4,5134800,310,0,16563,Downtown Dubai
+3,3,2088000,165,1,12654,Downtown Dubai
+6,4,1439997,599,0,2404,Yas Island
+4,3,672000,178,0,3775,Al Raha Beach
+1,0,167760,35,1,4793,Jumeirah Village Circle
+4,2,979200,119,0,8228,Mohammed Bin Rashid City
+7,7,3840000,1328,0,2891,Al Warqa'a
+2,2,256800,107,0,2400,Majan
+2,1,211199,67,0,3152,Jumeirah Village Circle
+4,3,1152000,216,0,5333,Dubai Marina
+3,3,839999,152,1,5526,Business Bay
+2,1,374400,68,1,5505,Jumeirah Lake Towers
+1,1,419999,65,1,6461,Mohammed Bin Rashid City
+5,4,912000,227,1,4017,Dubai Marina
+3,2,1488000,123,1,12097,Downtown Dubai
+2,1,312000,57,0,5473,Dubai Healthcare City
+1,0,145920,36,0,4053,Arjan
+4,3,3124896,281,0,11120,Palm Jumeirah
+2,2,10800000,277,0,38989,Palm Jumeirah
+2,2,4392000,226,0,19433,Palm Jumeirah
+4,4,4476384,393,0,11390,Palm Jumeirah
+1,0,153600,28,0,5485,Meydan
+5,4,684000,236,0,2898,Reem
+3,3,3840000,299,0,12842,Jumeirah Beach Residence
+2,1,360000,103,0,3495,Business Bay
+1,0,360000,68,0,5294,DIFC
+5,4,2232000,433,0,5154,Wadi Al Safa 2
+3,3,288000,112,0,2571,Damac Hills 2
+5,5,744000,305,0,2439,Damac Lagoons
+4,4,8640000,688,1,12558,Palm Jumeirah
+2,2,576000,78,0,7384,Mohammed Bin Rashid City
+1,0,168000,34,1,4941,Meydan
+5,5,1727999,925,0,1868,The Villa
+3,2,1056000,132,0,8000,Al Wasl
+2,2,552000,107,0,5158,Mina Rashid
+2,1,360000,83,0,4337,Al Muhaisnah
+5,5,15600000,1111,1,14041,Palm Jumeirah
+4,3,1560000,162,0,9629,Al Wasl
+3,4,3120000,300,0,10400,Dubai Hills Estate
+4,3,6600000,703,1,9388,Palm Jumeirah
+6,3,5280000,371,1,14231,Jumeirah
+1,1,576000,75,0,7680,Jumeirah
+1,1,900000,74,0,12162,Bluewaters
+4,3,1511999,209,0,7234,City Walk
+4,3,3000000,226,0,13274,Zabeel
+2,2,959999,117,0,8205,City Walk
+6,4,2040000,393,0,5190,Deira
+1,0,168000,36,0,4666,Mohammed Bin Rashid City
+6,4,2280000,599,0,3806,Deira
+7,5,5400000,929,0,5812,Mohammed Bin Rashid City
+2,1,180000,74,0,2432,Al Reem Island
+1,1,312000,70,0,4457,Greens
+2,1,528000,79,0,6683,Zabeel
+2,2,1151999,108,0,10666,Dubai Harbour
+3,2,360000,129,0,2790,Al Furjan
+1,0,110400,43,0,2567,Discovery Gardens
+1,1,256560,64,0,4008,DAMAC Hills
+1,1,246240,62,0,3971,DAMAC Hills
+2,1,264000,63,0,4190,Jumeirah Village Circle
+3,3,1080000,243,0,4444,Nad Al Sheba
+5,4,4680000,569,1,8224,Dubai Marina
+2,2,504000,105,1,4800,Mohammed Bin Rashid City
+5,4,1104000,330,0,3345,Meydan
+5,4,1512000,303,0,4990,Meydan
+3,3,876000,141,0,6212,Dubai Hills Estate
+3,3,576000,184,0,3130,Dubai South (Dubai World Central)
+2,1,408000,66,0,6181,Mohammed Bin Rashid City
+2,2,552000,90,0,6133,Mohammed Bin Rashid City
+2,2,552000,89,0,6202,Mohammed Bin Rashid City
+4,3,235197,156,1,1507,Al Reef
+1,0,168000,32,0,5250,Dubai Studio City
+2,1,444000,148,0,3000,Business Bay
+5,4,4320000,664,0,6506,Jumeirah Golf Estates
+4,4,4320000,263,1,16425,Downtown Dubai
+3,3,864000,175,0,4937,Dubai Marina
+2,1,102000,67,0,1522,International City
+3,3,504000,167,0,3017,Dubai Marina
+1,0,151200,51,1,2964,Mirdif
+3,2,1272000,165,1,7709,DIFC
+7,6,10800000,1286,0,8398,Dubai Hills Estate
+1,0,161760,44,0,3676,Arjan
+2,1,252000,62,0,4064,Al Furjan
+2,1,276000,68,1,4058,Jumeirah Lake Towers
+1,0,129600,54,0,2400,Jumeirah Village Circle
+2,3,600000,87,0,6896,Meydan
+5,4,3960000,227,0,17444,Downtown Dubai
+3,3,1152000,170,0,6776,Umm Suqeim
+2,1,203997,65,1,3138,Al Reem Island
+2,1,516000,65,1,7938,Dubai Marina
+2,1,174000,92,0,1891,Discovery Gardens
+2,1,372000,53,0,7018,Dubai Healthcare City
+5,4,1134404,293,0,3871,Dubai South (Dubai World Central)
+4,3,696000,286,0,2433,Reem
+2,1,222000,63,0,3523,Arjan
+2,2,1032000,107,1,9644,Dubai Marina
+1,0,146400,38,0,3852,Arjan
+3,2,876000,111,0,7891,Jumeirah
+4,4,1032000,218,0,4733,Tilal Al Ghaf
+2,1,403200,89,1,4530,Business Bay
+1,0,141600,38,0,3726,Arjan
+2,1,288000,62,0,4645,DAMAC Hills
+4,3,1103999,139,0,7942,Jumeirah Golf Estates
+7,5,2388000,486,0,4913,Jumeirah Golf Estates
+1,0,120000,44,0,2727,Discovery Gardens
+3,3,551999,99,0,5575,Meydan
+4,4,1080000,201,0,5373,Tilal Al Ghaf
+1,1,287760,45,1,6394,Business Bay
+3,3,900000,373,0,2412,Mudon
+1,2,564000,107,0,5271,Mina Rashid
+1,0,147360,36,0,4093,Jumeirah Village Circle
+2,1,204000,75,0,2720,Al Reem Island
+2,1,270000,92,0,2934,Al Reem Island
+4,3,8400000,262,1,32061,Jumeirah
+1,0,324000,40,1,8100,Downtown Dubai
+5,4,18480000,672,0,27500,Palm Jumeirah
+4,3,1320000,356,0,3707,Al Furjan
+2,2,864000,112,0,7714,Dubai Harbour
+4,4,2760000,325,1,8492,Dubai Hills Estate
+4,2,612000,117,0,5230,Mohammed Bin Rashid City
+1,1,462000,68,0,6794,Umm Suqeim
+3,2,1068000,110,1,9709,Downtown Dubai
+3,3,1176000,170,0,6917,Umm Suqeim
+4,4,17760000,934,1,19014,Jumeirah
+3,2,412800,110,0,3752,Jumeirah Village Circle
+7,6,3300000,507,1,6508,Meydan
+3,2,480000,120,1,4000,Jumeirah Lake Towers
+1,0,228000,40,1,5700,Jumeirah Village Triangle
+5,3,840000,187,0,4491,Mohammed Bin Rashid City
+2,2,1020000,116,1,8793,Downtown Dubai
+4,3,1644000,270,0,6088,Dubai Hills Estate
+1,0,311760,36,1,8660,Palm Jumeirah
+5,3,1248000,154,0,8103,Mohammed Bin Rashid City
+6,5,2688000,534,0,5033,Dubai Hills Estate
+1,0,191760,40,0,4794,Arjan
+5,4,1128000,309,0,3650,Mudon
+1,0,311760,32,1,9742,Palm Jumeirah
+3,2,1320000,124,0,10645,Al Wasl
+4,3,2160000,198,0,10909,Dubai Harbour
+1,0,204000,40,1,5100,Jumeirah Village Circle
+5,4,15600000,666,1,23423,Palm Jumeirah
+2,1,204000,82,1,2487,Dubai Sports City
+2,2,853200,130,0,6563,Downtown Dubai
+2,1,180000,87,0,2068,Dubai Sports City
+1,1,363600,91,1,3995,Greens
+3,2,455760,132,1,3452,Al Reem Island
+2,2,285600,99,0,2884,Town Square
+4,3,1320000,215,1,6139,Meydan
+1,1,192000,63,0,3047,Jumeirah Village Circle
+1,0,496992,33,0,15060,Dubai Marina
+2,2,696000,115,1,6052,Dubai Marina
+3,3,396000,195,1,2030,Damac Hills 2
+3,4,732000,180,0,4066,DAMAC Hills
+2,4,684000,181,0,3779,DAMAC Hills
+2,2,224400,64,0,3506,Jumeirah Lake Towers
+4,3,1020000,489,0,2085,Yas Island
+7,6,18000000,1364,0,13196,Palm Jumeirah
+1,1,360000,46,1,7826,Mohammed Bin Rashid City
+4,3,767999,176,0,4363,Dubai Land
+2,2,331200,68,1,4870,Jumeirah Village Triangle
+3,2,1679999,158,0,10632,Palm Jumeirah
+3,2,1008000,250,0,4032,Jumeirah Village Triangle
+1,1,182400,75,1,2432,Dubai Sports City
+6,4,672000,194,0,3463,Rukan
+3,2,1440000,159,0,9056,Downtown Dubai
+4,4,1584000,510,0,3105,Jumeirah Park
+2,1,360000,91,0,3956,Al Reem Island
+2,1,336000,105,0,3200,Al Reem Island
+6,5,3840000,1400,1,2742,Umm Suqeim
+2,1,319200,47,0,6791,Mohammed Bin Rashid City
+1,0,132000,46,1,2869,Al Furjan
+3,2,384000,103,0,3728,Rukan
+3,2,384000,108,0,3555,Jumeirah Village Circle
+1,1,263999,73,0,3616,Al Barsha
+3,2,1008000,187,0,5390,Culture Village
+2,2,696000,112,0,6214,Yas Island
+1,0,132000,32,0,4125,Arjan
+4,3,708000,201,0,3522,Saadiyat Island
+3,2,552000,116,0,4758,Business Bay
+1,0,132000,36,1,3666,Arjan
+2,1,213600,71,0,3008,Jumeirah Village Circle
+5,3,455999,232,0,1965,Damac Hills 2
+1,0,111600,41,1,2721,Jumeirah Village Triangle
+1,1,264000,76,1,3473,Dubai Studio City
+1,1,143999,39,1,3692,DAMAC Hills
+3,2,600000,142,0,4225,Business Bay
+1,0,141600,40,1,3540,Jumeirah Village Circle
+5,4,1200000,316,0,3797,Tilal Al Ghaf
+7,6,2232000,603,0,3701,Dubai Silicon Oasis
+1,0,129600,30,1,4320,Jumeirah Village Triangle
+2,1,360000,125,1,2880,Business Bay
+2,1,312000,68,0,4588,Meydan
+1,0,180000,68,1,2647,Jumeirah Village Circle
+3,2,924000,132,1,7000,Dubai Marina
+3,3,700800,149,0,4703,DAMAC Hills
+7,6,2280000,1114,1,2046,Al Barsha
+7,5,2520000,458,0,5502,DAMAC Hills
+1,1,276000,49,1,5632,Mohammed Bin Rashid City
+1,0,167997,42,0,3999,Yas Island
+3,3,1128000,178,0,6337,Jumeirah Beach Residence
+1,0,180000,35,1,5142,Meydan
+2,2,960000,109,1,8807,Dubai Harbour
+1,1,600000,74,0,8108,Jumeirah
+1,0,132000,42,1,3142,Dubai South (Dubai World Central)
+5,4,1152000,251,0,4589,Jebel Ali
+5,4,2760000,531,1,5197,Meadows
+5,4,1080000,343,0,3148,Dubai Sports City
+4,3,1680000,357,0,4705,Deira
+7,5,8400000,1089,0,7713,Yas Island
+2,1,450000,94,0,4787,Yas Island
+2,1,326400,71,0,4597,Jumeirah Village Circle
+1,1,312000,45,0,6933,Meydan
+6,5,4680000,850,0,5505,Jumeirah Golf Estates
+1,0,192000,38,1,5052,Business Bay
+2,1,360000,58,0,6206,Business Bay
+3,3,588000,187,0,3144,Town Square
+1,2,420000,69,0,6086,Dubai Hills Estate
+1,2,426000,69,0,6173,Dubai Hills Estate
+4,3,2100000,239,1,8786,Dubai Marina
+1,0,120000,37,1,3243,Al Furjan
+2,1,348000,74,0,4702,Jumeirah Village Circle
+6,5,2952000,525,0,5622,Dubai Hills Estate
+2,1,300000,80,1,3750,Jumeirah Village Circle
+2,2,912000,125,0,7296,City Walk
+1,1,468000,64,0,7312,Business Bay
+2,1,228000,66,1,3454,Jumeirah Village Triangle
+2,1,1015200,69,1,14713,Dubai Harbour
+3,2,942693,129,1,7307,Zabeel
+1,0,204000,23,1,8869,Jumeirah Village Circle
+4,3,684000,144,0,4750,Arabian Ranches 3
+1,1,168000,58,0,2896,Dubai South (Dubai World Central)
+5,4,1080000,335,0,3223,Al Furjan
+2,2,570000,93,0,6129,Meydan
+1,0,564000,48,1,11750,Palm Jumeirah
+1,1,348000,61,0,5704,Mohammed Bin Rashid City
+3,4,816000,248,0,3290,Mudon
+2,3,656880,167,0,3933,Mudon
+2,1,264000,98,0,2693,Motor City
+4,4,792000,220,0,3600,Arabian Ranches 3
+2,2,199200,71,0,2805,Al Reem Island
+2,1,276000,74,0,3729,Jumeirah Village Circle
+5,3,444000,174,0,2551,Damac Hills 2
+1,1,204000,57,0,3578,DAMAC Hills
+3,2,360000,94,0,3829,Rukan
+2,1,228000,80,0,2850,Jumeirah Village Circle
+4,4,732000,282,0,2595,Town Square
+1,0,163200,41,1,3980,Dubai Production City (IMPZ)
+4,3,594000,184,0,3228,Dubai Land
+1,1,381600,48,0,7950,Mohammed Bin Rashid City
+2,1,139200,52,0,2676,Dubai Land
+2,1,624000,74,0,8432,Dubai Harbour
+6,4,1204800,361,0,3337,Al Reem Island
+5,6,13680000,1903,0,7188,Emirates Hills
+3,2,275997,117,0,2358,Al Reef
+2,1,480000,84,0,5714,Mohammed Bin Rashid City
+5,5,21600000,579,0,37305,Palm Jumeirah
+5,4,792000,255,0,3105,Town Square
+6,6,960000,424,0,2264,Damac Hills 2
+3,2,528000,128,0,4125,Dubai Marina
+3,2,732000,126,0,5809,Dubai Hills Estate
+3,2,768000,172,0,4465,Al Reem Island
+2,1,120000,79,0,1518,Dubai Land
+7,6,8280000,1016,0,8149,Mohammed Bin Rashid City
+2,1,120000,79,0,1518,Dubai Land
+2,1,420000,71,1,5915,Mohammed Bin Rashid City
+2,1,348000,48,0,7250,Meydan
+2,1,936000,70,1,13371,Dubai Harbour
+4,4,1248000,314,0,3974,Tilal Al Ghaf
+2,1,360000,60,0,6000,Dubai Marina
+6,6,959999,416,0,2307,Damac Hills 2
+3,3,336000,139,0,2417,Damac Hills 2
+1,0,336000,68,0,4941,Downtown Dubai
+1,0,157140,45,0,3492,DAMAC Hills
+4,3,504000,137,0,3678,The Valley
+2,1,134400,75,0,1792,Dubai Production City (IMPZ)
+3,3,1640160,144,1,11390,Downtown Dubai
+3,2,468000,132,0,3545,Jumeirah Village Circle
+1,0,168000,48,1,3500,DAMAC Hills
+1,0,156000,40,0,3900,Dubai Production City (IMPZ)
+4,4,719999,144,0,4999,Damac Lagoons
+7,5,10800000,1394,1,7747,Umm Al Sheif
+7,5,21600000,1393,1,15506,Umm Al Sheif
+2,1,348000,74,0,4702,Jumeirah Village Circle
+7,5,9120000,1374,1,6637,Umm Al Sheif
+2,2,1080000,116,1,9310,Downtown Dubai
+5,4,1536000,303,0,5069,Meydan
+7,5,8400000,1091,1,7699,Umm Suqeim
+5,4,2040000,311,0,6559,Mohammed Bin Rashid City
+2,2,924000,102,1,9058,Dubai Creek Harbour (The Lagoons)
+4,4,624000,325,1,1920,Jumeirah Village Circle
+3,2,1680000,380,1,4421,Palm Jumeirah
+3,2,768000,120,0,6400,Al Sufouh
+1,1,300000,52,0,5769,Meydan
+4,3,2160000,196,1,11020,Dubai Creek Harbour (The Lagoons)
+1,0,180000,57,1,3157,Business Bay
+2,1,192000,61,0,3147,Jumeirah Village Circle
+2,2,468000,74,0,6324,Business Bay
+2,2,623999,118,1,5288,Jumeirah Beach Residence
+2,1,198000,85,0,2329,Motor City
+5,4,420000,112,0,3750,Damac Hills 2
+3,2,1680000,380,0,4421,Palm Jumeirah
+5,3,432000,174,0,2482,Damac Hills 2
+4,3,1368000,215,1,6362,Palm Jumeirah
+1,1,132000,68,1,1941,Dubai Production City (IMPZ)
+1,1,1248000,103,1,12116,Jumeirah Beach Residence
+2,2,222000,71,0,3126,Jumeirah Lake Towers
+1,0,264000,40,1,6600,Jumeirah Lake Towers
+2,1,174000,86,0,2023,Dubai Sports City
+2,1,696000,63,1,11047,Dubai Marina
+3,2,336000,121,0,2776,Al Furjan
+2,2,672000,97,1,6927,Dubai Marina
+2,1,444000,60,1,7400,Dubai Marina
+2,2,468000,99,0,4727,Dubai Hills Estate
+1,0,144000,41,1,3512,Dubai South (Dubai World Central)
+1,0,124800,53,0,2354,Dubai Residence Complex
+1,1,528000,76,0,6947,Jumeirah
+1,1,156000,40,1,3900,DAMAC Hills
+4,3,1452000,284,0,5112,Jumeirah Park
+4,3,257280,136,1,1891,Downtown Jebel Ali
+2,1,138000,66,0,2090,Dubai Production City (IMPZ)
+2,1,300000,88,0,3409,Dubai Marina
+2,1,600000,84,0,7142,Downtown Dubai
+3,3,3360000,310,0,10838,Palm Jumeirah
+3,2,811200,137,0,5921,Mohammed Bin Rashid City
+3,3,576000,179,0,3217,Arabian Ranches 3
+3,2,576000,129,1,4465,Jumeirah Beach Residence
+3,3,672000,175,1,3840,Jumeirah Beach Residence
+1,0,288000,37,0,7783,Dubai Marina
+1,0,242400,41,0,5912,Business Bay
+4,3,528000,175,0,3017,Dubai South (Dubai World Central)
+3,3,600000,155,0,3870,Jumeirah Lake Towers
+2,1,135600,65,0,2086,Dubai Silicon Oasis
+5,4,1800000,373,0,4825,Tilal Al Ghaf
+2,1,348000,69,0,5043,Mohammed Bin Rashid City
+3,2,1800000,165,0,10909,Zabeel
+1,1,408000,59,1,6915,Dubai Hills Estate
+4,4,936000,187,0,5005,Mohammed Bin Rashid City
+4,3,3239999,310,0,10451,Saadiyat Island
+5,4,4800000,445,0,10786,Palm Jumeirah
+1,1,468000,75,0,6240,Dubai Creek Harbour (The Lagoons)
+6,4,1296000,457,0,2835,DAMAC Hills
+3,4,768000,261,0,2942,Town Square
+1,1,587999,73,0,8054,Jumeirah
+5,4,1800000,783,0,2298,Al Furjan
+5,4,1416000,331,0,4277,Al Furjan
+3,2,384000,103,1,3728,Jumeirah Village Circle
+1,0,273600,66,0,4145,Jumeirah Beach Residence
+2,1,432000,101,1,4277,Culture Village
+1,0,252000,52,1,4846,Culture Village
+3,2,576000,130,1,4430,Culture Village
+4,3,888000,176,0,5045,Culture Village
+1,1,240000,62,0,3870,Arjan
+1,2,443760,67,1,6623,Dubai Hills Estate
+6,4,2016000,363,0,5553,Mohammed Bin Rashid City
+7,4,7200000,693,0,10389,Palm Jumeirah
+1,1,363600,100,1,3636,Greens
+2,1,204000,89,0,2292,Rukan
+5,4,6360000,622,0,10225,Palm Jumeirah
+1,1,198000,52,0,3807,Arjan
+2,1,170400,74,1,2302,Dubai Sports City
+2,1,360000,86,1,4186,Business Bay
+3,2,348000,128,1,2718,Al Quoz
+5,4,3480000,470,0,7404,Palm Jumeirah
+1,1,312000,70,0,4457,Jumeirah Village Circle
+1,1,312000,46,0,6782,Dubai Hills Estate
+3,2,888000,143,0,6209,Al Kifaf
+3,2,1452000,106,1,13698,Dubai Harbour
+3,2,336000,91,0,3692,Dubai South (Dubai World Central)
+1,1,513600,54,0,9511,Downtown Dubai
+2,1,1008000,87,1,11586,Al Jaddaf
+1,0,148800,27,0,5511,Meydan
+3,2,676800,116,0,5834,Old Town
+7,5,3600000,1589,1,2265,Al Barsha
+1,0,120000,30,1,4000,Jumeirah Village Triangle
+3,2,396000,123,0,3219,Dubai Marina
+1,0,103200,36,0,2866,Dubai South (Dubai World Central)
+2,2,960000,115,0,8347,Dubai Creek Harbour (The Lagoons)
+1,1,432000,71,0,6084,Dubai Creek Harbour (The Lagoons)
+5,4,17640000,737,0,23934,Palm Jumeirah
+4,3,660000,225,0,2933,Yas Island
+1,0,132000,35,1,3771,Al Furjan
+5,4,1246385,430,0,2898,The Valley
+2,1,259200,87,1,2979,Jumeirah Village Circle
+6,5,2760000,460,0,6000,Dubai Land
+7,6,8880000,1330,0,6676,Dubai Hills Estate
+3,4,552000,211,0,2616,Damac Lagoons
+2,1,371911,69,0,5390,Mohammed Bin Rashid City
+2,2,912000,101,0,9029,Downtown Dubai
+6,5,1589177,526,0,3021,The Valley
+4,3,1080000,204,0,5294,Dubai Marina
+5,4,1199465,412,0,2911,The Valley
+6,5,1529837,413,0,3704,The Valley
+6,5,3840000,783,0,4904,Mohammed Bin Rashid City
+3,3,623802,226,0,2760,The Valley
+1,0,96000,31,1,3096,Dubai Silicon Oasis
+4,4,3108000,486,1,6395,Palm Jumeirah
+1,0,175200,40,0,4380,Arjan
+5,5,1152000,389,0,2961,Dubai South (Dubai World Central)
+4,3,708000,239,0,2962,Dubai South (Dubai World Central)
+4,4,864000,311,0,2778,Dubai South (Dubai World Central)
+4,3,936000,250,0,3744,Wasl Gate
+3,2,408000,83,0,4915,Business Bay
+5,5,1271999,474,0,2683,DAMAC Hills
+2,2,528000,79,0,6683,Business Bay
+3,2,1128000,131,1,8610,Downtown Dubai
+2,1,276000,77,0,3584,Arjan
+4,3,552000,193,0,2860,Town Square
+none,1,148800,68,0,2188,Dubai Land
+3,3,1269600,170,0,7468,Zabeel
+2,1,304800,83,0,3672,Al Muhaisnah
+3,2,360000,90,0,4000,Jumeirah Village Circle
+3,3,348000,138,0,2521,Remraam
+5,4,1847997,560,0,3299,Al Reem Island
+1,1,528000,84,0,6285,Jumeirah Lake Towers
+1,1,240000,67,0,3582,Al Jaddaf
+2,2,216000,64,0,3375,Jumeirah Lake Towers
+4,3,624000,128,0,4875,Arabian Ranches 3
+5,3,648000,264,1,2454,DAMAC Hills
+1,0,191280,36,0,5313,Business Bay
+5,4,768000,248,0,3096,The Valley
+2,1,283200,61,0,4642,Business Bay
+2,2,1056000,149,0,7087,Umm Suqeim
+7,7,5280000,1063,0,4967,Damac Lagoons
+2,2,1328074,128,0,10375,Dubai Harbour
+4,3,468000,297,1,1575,Damac Hills 2
+2,1,213600,81,0,2637,Majan
+5,4,684000,129,0,5302,Jumeirah Village Circle
+2,1,772438,69,0,11194,Dubai Harbour
+6,4,936000,330,0,2836,Dubai South (Dubai World Central)
+4,3,624000,173,0,3606,The Valley
+3,2,996000,133,0,7488,Business Bay
+4,3,588000,181,0,3248,Dubai Land
+2,1,174000,75,0,2320,Dubai Residence Complex
+3,2,960000,151,0,6357,Downtown Dubai
+3,2,408000,83,0,4915,Mohammed Bin Rashid City
+2,1,408000,74,0,5513,Dubai Marina
+1,0,163200,37,0,4410,Meydan
+6,5,2760000,514,0,5369,DAMAC Hills
+2,1,468000,83,0,5638,Dubai Marina
+1,0,768000,33,1,23272,Dubai Marina
+2,1,444000,75,0,5920,Downtown Dubai
+1,1,720000,76,0,9473,Dubai Harbour
+1,1,432000,78,1,5538,Dubai Marina
+5,4,2220000,402,0,5522,Jumeirah Park
+4,2,960000,120,0,8000,Mohammed Bin Rashid City
+6,5,3839999,575,0,6678,Jumeirah Park
+3,3,688800,115,0,5989,Mohammed Bin Rashid City
+3,2,510000,168,0,3035,Yas Island
+4,4,1632000,564,0,2893,Al Furjan
+4,3,1488000,178,0,8359,Downtown Dubai
+4,3,574800,187,0,3073,Town Square
+1,0,132000,37,0,3567,DAMAC Hills
+2,2,180000,101,0,1782,Dubai Land
+6,4,9600000,438,1,21917,Zabeel
+5,4,1285200,316,0,4067,Tilal Al Ghaf
+5,4,924000,186,0,4967,Mohammed Bin Rashid City
+3,2,835200,147,1,5681,Business Bay
+3,2,324000,134,1,2417,Dubai Sports City
+2,2,768000,121,0,6347,Dubai Creek Harbour (The Lagoons)
+3,2,288000,90,0,3200,Dubai Land
+3,3,408000,112,1,3642,Damac Hills 2
+5,3,864000,237,0,3645,Jumeirah Heights
+2,2,396000,98,0,4040,Jumeirah Village Circle
+2,1,1488000,152,0,9789,Saadiyat Island
+6,5,2616000,501,0,5221,DAMAC Hills
+1,0,180000,42,0,4285,Jumeirah Lake Towers
+1,1,156000,84,0,1857,Dubai Land
+1,1,540000,84,1,6428,Dubai Marina
+2,1,408000,62,0,6580,Mohammed Bin Rashid City
+2,2,311967,100,0,3119,Yas Island
+1,1,187173,51,0,3670,Al Raha Beach
+3,3,372000,178,0,2089,Damac Hills 2
+1,1,573600,81,0,7081,Downtown Dubai
+6,5,1968000,537,0,3664,Saadiyat Island
+1,0,252000,61,1,4131,Business Bay
+4,3,407999,132,0,3090,Yas Island
+5,4,672000,261,0,2574,Town Square
+4,3,1319999,392,0,3367,Arabian Ranches 3
+2,1,203760,71,0,2869,Dubai South (Dubai World Central)
+4,3,441840,155,0,2850,Dubai South (Dubai World Central)
+5,4,1716000,452,0,3796,Jumeirah Park
+2,1,768000,65,1,11815,Jumeirah Beach Residence
+3,2,839760,122,1,6883,Business Bay
+1,1,765600,84,0,9114,Jumeirah Beach Residence
+1,1,420000,64,0,6562,Dubai Creek Harbour (The Lagoons)
+3,3,648000,162,1,4000,Business Bay
+3,3,2880000,206,0,13980,Jumeirah
+2,2,636000,108,0,5888,Dubai Creek Harbour (The Lagoons)
+2,1,336000,63,0,5333,Dubai Healthcare City
+2,1,258000,81,0,3185,Al Furjan
+3,2,1392000,245,0,5681,Al Barari
+5,5,1800000,569,0,3163,Al Furjan
+2,2,768000,108,1,7111,Dubai Creek Harbour (The Lagoons)
+1,0,110400,42,1,2628,Al Warsan
+1,0,122400,36,1,3400,Al Furjan
+2,1,186000,60,0,3100,Jumeirah Village Circle
+1,0,138000,56,0,2464,Jumeirah Village Circle
+5,4,684000,215,0,3181,Reem
+2,2,360000,120,0,3000,Dubai South (Dubai World Central)
+1,1,230400,62,1,3716,Dubai Marina
+3,3,900000,154,1,5844,Business Bay
+2,1,300000,98,0,3061,Business Bay
+5,4,600000,143,0,4195,Damac Lagoons
+2,2,888000,108,0,8222,Dubai Design District
+2,1,384000,80,0,4800,Mohammed Bin Rashid City
+2,2,312000,99,0,3151,Yas Island
+1,0,110400,48,0,2300,Discovery Gardens
+1,0,109200,43,0,2539,Discovery Gardens
+1,0,118800,42,1,2828,Dubai Residence Complex
+2,1,420000,71,0,5915,Maritime City
+2,1,441600,63,0,7009,Downtown Dubai
+6,6,1680000,709,0,2369,Living Legends
+3,4,468000,216,0,2166,Damac Hills 2
+1,1,216000,64,0,3375,Jumeirah Village Circle
+2,1,307200,109,0,2818,Al Reem Island
+1,0,156000,29,1,5379,Al Jaddaf
+3,2,528000,172,0,3069,Serena
+2,1,239760,61,0,3930,Jumeirah Village Circle
+5,4,527999,222,0,2378,Damac Hills 2
+2,1,288000,80,0,3600,Jumeirah Village Circle
+5,3,3600000,247,0,14574,Downtown Dubai
+1,0,123360,34,1,3628,Downtown Jebel Ali
+4,3,791999,162,1,4888,Business Bay
+2,1,232800,84,1,2771,Dubai Residence Complex
+2,1,288000,80,0,3600,Jumeirah Village Circle
+1,0,172800,30,0,5760,Dubai South (Dubai World Central)
+1,0,189120,37,0,5111,Dubai Healthcare City
+5,4,2100000,364,0,5769,Mohammed Bin Rashid City
+5,4,852000,227,0,3753,Arabian Ranches 3
+2,1,213600,90,0,2373,Al Quoz
+2,1,247200,81,0,3051,Arjan
+1,0,278400,39,1,7138,Maritime City
+1,0,180000,38,1,4736,Mohammed Bin Rashid City
+1,1,480000,83,1,5783,Old Town
+4,4,791999,263,0,3011,Dubai South (Dubai World Central)
+5,5,10560000,501,1,21077,Palm Jumeirah
+4,4,3600000,463,0,7775,Dubai Hills Estate
+2,1,228000,58,0,3931,Arjan
+2,2,576000,93,0,6193,Dubai Creek Harbour (The Lagoons)
+2,1,405600,82,0,4946,Al Satwa
+1,1,348000,61,0,5704,Dubai Creek Harbour (The Lagoons)
+1,1,564000,71,0,7943,The Hills
+1,1,468000,88,0,5318,Umm Suqeim
+2,1,307200,84,0,3657,Jumeirah Village Circle
+2,2,744000,121,0,6148,Dubai Creek Harbour (The Lagoons)
+1,0,367200,64,1,5737,Business Bay
+6,5,3902133,784,0,4977,Mohammed Bin Rashid City
+7,6,6000000,654,1,9174,Downtown Dubai
+4,3,936000,213,1,4394,Al Barsha
+4,3,648000,144,0,4500,Arabian Ranches 3
+3,2,600000,114,1,5263,Mohammed Bin Rashid City
+7,6,1164000,494,0,2356,Al Shamkha
+1,0,110400,32,0,3450,Rukan
+1,1,420000,86,1,4883,Jumeirah Beach Residence
+3,3,1428000,151,0,9456,Dubai Marina
+2,2,288000,89,0,3235,Town Square
+7,5,3540000,594,0,5959,Nad Al Sheba
+3,3,576000,201,0,2865,Town Square
+1,1,360000,64,0,5625,Dubai Creek Harbour (The Lagoons)
+5,4,1176000,343,0,3428,Dubai Sports City
+3,2,1493830,128,0,11670,Dubai Harbour
+5,5,8640000,933,0,9260,Al Barari
+4,3,1320000,152,0,8684,Downtown Dubai
+4,3,792000,177,0,4474,Al Furjan
+1,0,108000,39,0,2769,Dubai Sports City
+1,0,145920,70,0,2084,Dubai Sports City
+2,1,183360,88,0,2083,Dubai Sports City
+2,1,173760,84,0,2068,Dubai Sports City
+6,5,2448000,580,1,4220,The Villa
+2,1,213600,136,0,1570,Motor City
+4,4,1008000,217,0,4645,The Valley
+4,4,924000,226,0,4088,Arabian Ranches 2
+7,5,4560000,752,0,6063,Mohammed Bin Rashid City
+1,1,348000,73,0,4767,Mohammed Bin Rashid City
+1,0,115200,31,0,3716,Al Furjan
+3,2,840000,166,0,5060,Palm Jumeirah
+4,3,600000,144,0,4166,Arabian Ranches 3
+3,3,264000,112,0,2357,Damac Hills 2
+1,0,206400,55,0,3752,Mirdif
+5,4,864000,332,0,2602,Dubai South (Dubai World Central)
+5,5,571200,425,0,1344,Damac Hills 2
+2,2,900000,112,0,8035,Dubai Harbour
+1,0,180000,42,0,4285,Jumeirah Lake Towers
+3,2,744000,201,0,3701,Saadiyat Island
+2,1,376800,81,0,4651,Jumeirah Lake Towers
+4,3,696000,304,0,2289,Dubai South (Dubai World Central)
+4,4,2160000,433,0,4988,Wadi Al Safa 2
+3,2,1524000,128,1,11906,Downtown Dubai
+3,3,1471200,223,0,6597,City Walk
+3,3,431999,174,0,2482,Damac Hills 2
+2,1,550800,61,0,9029,City Walk
+7,5,2395200,622,0,3850,Al Furjan
+1,0,312000,50,1,6240,Business Bay
+1,1,432000,68,1,6352,Dubai Creek Harbour (The Lagoons)
+2,2,691200,259,1,2668,Jumeirah Village Circle
+1,1,199197,64,1,3112,Yas Island
+3,2,672000,93,0,7225,Business Bay
+2,1,240000,84,1,2857,Dubai Marina
+5,3,456000,179,0,2547,Al Reem Island
+1,1,324000,44,1,7363,Business Bay
+3,2,324000,115,0,2817,Jumeirah Village Circle
+1,0,156000,37,0,4216,Meydan
+2,1,264000,53,0,4981,Jumeirah Village Circle
+1,1,223200,59,0,3783,Jumeirah Village Circle
+4,4,864000,248,0,3483,DAMAC Hills
+2,1,348000,79,1,4405,Yas Island
+3,3,1656000,432,0,3833,Downtown Dubai
+1,1,864000,69,0,12521,Dubai Harbour
+4,5,1308000,298,0,4389,Dubai Hills Estate
+3,2,360000,130,0,2769,Dubai Sports City
+7,7,15600000,3716,1,4198,Umm Suqeim
+6,5,528000,273,0,1934,Al Reef
+3,2,828000,120,0,6900,Umm Suqeim
+3,2,276000,117,0,2358,Al Reef
+6,4,684000,129,1,5302,Jumeirah Village Circle
+7,5,2397600,765,0,3134,Yas Island
+2,2,264000,107,0,2467,Dubai Studio City
+1,1,431999,71,0,6084,Dubai Creek Harbour (The Lagoons)
+5,4,14160000,556,1,25467,Palm Jumeirah
+7,5,1200000,390,0,3076,Dubai South (Dubai World Central)
+1,1,468000,70,0,6685,Dubai Creek Harbour (The Lagoons)
+1,1,228000,45,0,5066,Meydan
+3,2,372000,119,0,3126,Arjan
+5,4,3000000,418,1,7177,Dubai Hills Estate
+7,6,7440000,695,0,10705,Jumeirah
+3,3,588000,187,0,3144,Town Square
+1,0,144000,43,0,3348,Arjan
+1,0,132000,42,0,3142,Jumeirah Lake Towers
+4,4,720000,271,0,2656,Town Square
+2,2,300000,81,0,3703,Jumeirah Village Circle
+2,1,252000,79,0,3189,Jumeirah Lake Towers
+1,1,228000,43,0,5302,Meydan
+6,5,5880000,733,0,8021,Mohammed Bin Rashid City
+3,2,1319999,134,1,9850,Downtown Dubai
+5,4,13200000,541,0,24399,Jumeirah
+2,2,360000,89,0,4044,Jumeirah Lake Towers
+5,4,18240000,713,0,25582,Palm Jumeirah
+1,0,142800,30,0,4760,Meydan
+6,6,6600000,840,0,7857,Al Barari
+1,1,240000,48,0,5000,Meydan
+1,1,230400,58,0,3972,Business Bay
+3,2,576000,248,1,2322,Jumeirah Village Circle
+7,5,3360000,464,0,7241,Nad Al Sheba
+5,5,882480,259,0,3407,Damac Lagoons
+1,0,139200,33,1,4218,Jebel Ali
+1,0,183600,36,0,5100,Meydan
+3,3,427200,140,0,3051,Dubai South (Dubai World Central)
+2,1,249600,77,0,3241,Dubai Production City (IMPZ)
+2,1,864000,124,0,6967,Deira
+4,3,359999,157,0,2292,Al Reem Island
+3,4,540000,143,0,3776,Damac Lagoons
+3,2,792000,143,1,5538,The Hills
+4,3,2304000,162,1,14222,Dubai Harbour
+4,3,3480000,191,1,18219,Jumeirah Beach Residence
+2,2,300000,91,1,3296,Business Bay
+2,2,660000,113,0,5840,Dubai Creek Harbour (The Lagoons)
+2,2,672000,99,0,6787,Dubai Creek Harbour (The Lagoons)
+4,4,1020000,239,0,4267,Al Furjan
+1,0,84000,33,1,2545,Dubai Production City (IMPZ)
+4,4,2544000,357,1,7126,Arabian Ranches
+3,2,528000,117,0,4512,Jumeirah Beach Residence
+3,2,456000,123,0,3707,DAMAC Hills
+2,1,720000,84,1,8571,Downtown Dubai
+6,4,1728000,783,0,2206,Al Furjan
+1,1,479999,70,0,6857,Business Bay
+4,2,552000,196,0,2816,Serena
+1,0,151200,38,0,3978,Arjan
+2,1,232824,92,0,2530,Arjan
+2,1,235200,70,0,3360,Al Barsha
+6,5,1203605,420,0,2865,The Valley
+2,1,225600,69,0,3269,Arjan
+1,0,105600,45,0,2346,Dubai Sports City
+4,3,643200,168,0,3828,Yas Island
+3,2,5520000,177,0,31186,Palm Jumeirah
+4,3,8640000,571,1,15131,Palm Jumeirah
+4,4,630000,223,0,2825,Dubai South (Dubai World Central)
+3,4,2688000,312,0,8615,Dubai Hills Estate
+6,5,2088000,687,0,3039,Arabian Ranches 3
+2,2,420000,78,0,5384,Meydan
+5,3,1128000,502,0,2247,Falcon City of Wonders
+1,2,429360,71,0,6047,Dubai Hills Estate
+4,3,648000,201,0,3223,Arabian Ranches 3
+1,1,480000,53,1,9056,Downtown Dubai
+4,4,1440000,257,0,5603,Culture Village
+5,4,957600,232,0,4127,Yas Island
+3,4,831600,217,0,3832,Dubai Land
+4,3,1127999,151,0,7470,Downtown Dubai
+4,3,516000,182,0,2835,Dubai Land
+1,1,542400,72,0,7533,Downtown Dubai
+3,2,864000,125,0,6912,Downtown Dubai
+3,2,840000,152,0,5526,Downtown Dubai
+2,1,228000,83,1,2746,Jumeirah Lake Towers
+1,1,408000,80,1,5100,Downtown Dubai
+7,6,7680000,1375,1,5585,Al Barari
+2,1,396000,70,0,5657,Emirates Hills 2
+3,2,504000,158,0,3189,Dubai Marina
+2,1,384000,131,0,2931,Jumeirah Lake Towers
+3,3,492000,140,0,3514,Jumeirah Lake Towers
+6,6,13200000,1671,1,7899,Tilal Al Ghaf
+1,1,312000,63,1,4952,Business Bay
+2,1,372000,73,0,5095,Jumeirah Village Circle
+2,1,318000,65,1,4892,Al Jaddaf
+2,1,936000,87,0,10758,Dubai Media City
+5,5,1644000,295,1,5572,Dubai Marina
+3,3,312000,112,1,2785,Damac Hills 2
+4,3,1080000,213,1,5070,Jumeirah Beach Residence
+2,2,960000,111,0,8648,Downtown Dubai
+2,1,127200,90,0,1413,Dubai Land
+2,1,184800,57,0,3242,DAMAC Hills
+2,1,216000,65,1,3323,Arjan
+5,5,3960000,621,0,6376,Dubai Hills Estate
+1,0,151200,37,1,4086,Jumeirah Village Circle
+1,0,191760,46,1,4168,Business Bay
+4,3,767997,202,0,3801,Yas Island
+3,2,504000,139,0,3625,DAMAC Hills
+3,2,1080000,293,0,3686,Al Barari
+1,1,405600,97,0,4181,Dubai Marina
+5,4,1584000,599,0,2644,Jumeirah Park
+4,4,1608000,554,0,2902,Jumeirah Park
+3,2,852000,120,0,7100,Jumeirah
+5,4,840000,233,0,3605,Dubai Land
+4,3,1392000,279,0,4989,Nad Al Sheba
+1,0,156000,32,0,4875,Meydan
+3,3,552000,190,1,2905,Town Square
+5,4,960000,329,0,2917,The Valley
+2,1,208800,97,0,2152,Motor City
+2,1,230400,67,0,3438,Arjan
+1,0,155760,41,0,3799,Dubai Land
+2,1,444000,57,0,7789,Maritime City
+3,3,1020000,203,0,5024,Jumeirah Golf Estates
+2,1,126000,55,0,2290,Dubai Production City (IMPZ)
+3,3,864000,140,0,6171,Tilal Al Ghaf
+2,1,876000,84,0,10428,Dubai Marina
+2,2,360000,89,0,4044,Mudon
+1,1,168000,68,0,2470,Jumeirah Village Circle
+1,0,180000,44,1,4090,Arjan
+2,2,477600,92,0,5191,Dubai Hills Estate
+2,1,576000,92,0,6260,Al Kifaf
+3,2,360000,103,0,3495,Arjan
+3,2,684000,129,1,5302,Jumeirah Beach Residence
+2,1,432000,62,0,6967,Business Bay
+1,0,104400,27,0,3866,Dubai Land
+3,2,576000,114,0,5052,Yas Island
+1,0,90000,40,0,2250,Dubai Land
+3,2,1080000,128,1,8437,Dubai Marina
+2,1,208800,66,1,3163,Jumeirah Village Circle
+3,3,384000,139,1,2762,Damac Hills 2
+2,2,192000,101,0,1900,Dubai Land
+4,3,624000,166,0,3759,Jumeirah Golf Estates
+1,1,300000,70,0,4285,Mohammed Bin Rashid City
+2,1,456000,72,0,6333,Mohammed Bin Rashid City
+2,1,583200,80,0,7290,Downtown Dubai
+1,0,122400,30,1,4080,Al Furjan
+1,1,288000,49,0,5877,Meydan
+1,0,100800,44,0,2290,Dubai Sports City
+1,1,156000,79,0,1974,Dubai Silicon Oasis
+6,5,2088000,621,0,3362,Arabian Ranches 3
+5,4,1608000,480,0,3350,Arabian Ranches 3
+3,2,600000,145,0,4137,Arjan
+3,4,564000,143,0,3944,Damac Lagoons
+2,1,177600,65,0,2732,Dubai South (Dubai World Central)
+1,0,234000,45,0,5200,Yas Island
+2,1,336000,83,0,4048,Mudon
+7,6,10319973,6635,0,1555,Nurai Island
+2,2,261600,85,0,3077,Al Reem Island
+3,2,746400,115,0,6490,Mohammed Bin Rashid City
+3,2,700800,130,0,5390,Mohammed Bin Rashid City
+2,1,600000,120,0,5000,Palm Jumeirah
+2,2,720000,137,0,5255,The Views
+4,3,2159999,455,0,4747,Palm Jumeirah
+3,4,549333,215,0,2555,Damac Lagoons
+2,1,216000,62,1,3483,Jumeirah Village Circle
+3,2,3600000,209,1,17224,Saadiyat Island
+3,3,528000,162,0,3259,Mirdif
+5,4,8880000,464,1,19137,Palm Jumeirah
+4,3,1716000,420,0,4085,Dubai Hills Estate
+1,0,192000,36,1,5333,Al Jaddaf
+2,2,345120,111,0,3109,Arjan
+2,2,684000,115,0,5947,Mohammed Bin Rashid City
+2,1,278160,83,0,3351,Al Muhaisnah
+2,1,359999,117,0,3076,Al Muhaisnah
+1,0,143400,27,0,5311,Meydan
+1,1,597333,73,1,8182,Umm Suqeim
+2,2,360000,89,0,4044,Jumeirah Lake Towers
+3,3,908400,290,0,3132,Mudon
+2,1,182400,82,0,2224,Jumeirah Village Circle
+1,1,254400,43,1,5916,Business Bay
+3,3,2088000,171,1,12210,Umm Suqeim
+2,2,489600,121,0,4046,Greens
+2,1,287999,63,1,4571,Al Furjan
+2,1,360000,83,0,4337,Mohammed Bin Rashid City
+1,1,506666,59,1,8587,Downtown Dubai
+2,1,177600,65,0,2732,Dubai South (Dubai World Central)
+2,2,396000,75,1,5280,Mohammed Bin Rashid City
+1,1,228000,69,1,3304,Jumeirah Lake Towers
+2,1,516000,64,1,8062,Dubai Marina
+4,4,1080000,365,0,2958,Dubai South (Dubai World Central)
+3,2,1200000,156,1,7692,Downtown Dubai
+2,1,708000,85,0,8329,Old Town
+2,1,133200,75,0,1776,Dubai Production City (IMPZ)
+1,0,100800,46,1,2191,Dubai Production City (IMPZ)
+1,1,312000,45,1,6933,Mohammed Bin Rashid City
+1,1,252000,46,1,5478,Meydan
+2,2,720000,161,1,4472,World Trade Center
+4,3,1392000,208,0,6692,Culture Village
+3,2,527724,118,0,4472,DIFC
+2,2,600000,99,0,6060,Mohammed Bin Rashid City
+2,2,600000,128,0,4687,Jumeirah Beach Residence
+1,0,167760,36,0,4660,Arjan
+3,2,815997,136,1,5999,Dubai Creek Harbour (The Lagoons)
+2,1,648000,90,1,7200,Al Barari
+1,0,300000,34,0,8823,Meydan
+1,0,192000,31,1,6193,Business Bay
+1,1,393472,82,1,4798,Al Satwa
+2,3,1032000,158,1,6531,Dubai Creek Harbour (The Lagoons)
+3,2,1824000,137,1,13313,Bluewaters
+6,5,744000,301,0,2471,Damac Lagoons
+5,4,1776000,466,0,3811,Saadiyat Island
+4,3,828000,198,0,4181,Tilal Al Ghaf
+2,2,393600,74,0,5318,Business Bay
+1,1,672000,74,0,9081,Jumeirah
+1,0,134160,32,1,4192,Town Square
+2,1,148800,69,1,2156,Jumeirah Village Circle
+3,2,576000,126,0,4571,Business Bay
+4,4,840000,235,0,3574,Arabian Ranches 3
+3,2,348000,134,0,2597,Motor City
+6,4,1747200,466,0,3749,Saadiyat Island
+2,2,599999,119,0,5042,Business Bay
+4,4,960000,187,0,5133,Mohammed Bin Rashid City
+1,1,564000,72,0,7833,City Walk
+2,1,288000,77,0,3740,Jumeirah Lake Towers
+4,3,1464000,184,0,7956,Al Wasl
+2,2,396000,83,0,4771,Meydan
+3,2,660000,134,0,4925,Jumeirah Beach Residence
+1,0,108000,39,1,2769,Dubai Sports City
+4,3,1439760,297,0,4847,Arabian Ranches 2
+1,1,660000,68,0,9705,Dubai Harbour
+1,0,312000,37,1,8432,The World Islands
+4,2,204000,142,0,1436,Dubai Investment Park (DIP)
+2,1,223200,88,0,2536,Jumeirah Village Circle
+1,1,228000,58,0,3931,DAMAC Hills
+2,2,602400,112,0,5378,Dubai Creek Harbour (The Lagoons)
+2,1,360000,65,1,5538,Al Jaddaf
+1,1,191760,61,0,3143,Jumeirah Village Circle
+3,3,462000,164,1,2817,Al Furjan
+3,2,1308000,143,1,9146,Downtown Dubai
+3,3,384000,112,1,3428,Damac Hills 2
+1,1,223200,39,0,5723,Meydan
+1,0,100800,38,1,2652,Damac Hills 2
+1,0,139200,48,0,2900,Discovery Gardens
+6,4,1116000,218,0,5119,Mohammed Bin Rashid City
+2,2,396000,106,0,3735,Jumeirah Village Circle
+1,0,139200,27,0,5155,Meydan
+2,2,528000,173,0,3052,Dubai South (Dubai World Central)
+2,1,156000,70,0,2228,Remraam
+3,2,719760,100,0,7197,Dubai Hills Estate
+2,1,220800,66,0,3345,Jumeirah Village Circle
+4,4,839999,242,0,3471,Dubai Marina
+1,1,408000,63,0,6476,Dubai Creek Harbour (The Lagoons)
+4,3,1320000,238,0,5546,Deira
+4,3,528000,174,0,3034,Town Square
+5,5,959999,251,0,3824,DAMAC Hills
+1,0,136800,49,0,2791,Jumeirah Lake Towers
+3,2,766800,144,1,5325,Al Kifaf
+3,2,672000,110,0,6109,Mohammed Bin Rashid City
+2,2,228000,93,0,2451,Remraam
+2,1,670800,123,0,5453,Downtown Dubai
+2,1,384000,61,0,6295,Dubai Hills Estate
+2,2,362400,83,0,4366,Meydan
+3,2,1044000,117,1,8923,Downtown Dubai
+3,4,2340000,294,0,7959,Dubai Hills Estate
+1,0,143999,54,0,2666,Motor City
+4,3,636000,220,0,2890,Reem
+1,0,121200,40,0,3030,Dubai Residence Complex
+2,1,420000,74,0,5675,Mohammed Bin Rashid City
+5,4,839999,190,0,4421,Al Furjan
+2,1,311136,45,0,6914,Jumeirah Village Circle
+3,2,10800000,285,1,37894,Palm Jumeirah
+3,2,696000,153,0,4549,The Springs
+2,1,276000,63,1,4380,Business Bay
+1,1,552000,72,0,7666,Downtown Dubai
+2,2,383760,116,1,3308,Dubai Production City (IMPZ)
+2,1,172800,89,0,1941,Discovery Gardens
+5,4,1896000,180,0,10533,Al Barari
+1,0,186000,35,0,5314,Jumeirah Village Circle
+4,3,624000,162,0,3851,Dubai Land
+4,3,1656000,297,0,5575,Dubai Hills Estate
+5,4,1800000,431,0,4176,Tilal Al Ghaf
+3,2,744000,130,0,5723,Dubai Marina
+2,1,288000,54,0,5333,Meydan
+4,4,1032000,316,0,3265,Al Furjan
+1,0,312000,48,0,6500,Downtown Dubai
+1,1,180000,74,0,2432,Jumeirah Village Triangle
+4,4,2879999,211,1,13649,Downtown Dubai
+2,2,592800,109,0,5438,Dubai Creek Harbour (The Lagoons)
+2,2,804000,112,0,7178,Jumeirah
+2,2,648000,151,0,4291,Business Bay
+2,1,252000,76,0,3315,Al Reem Island
+2,1,1223973,120,0,10199,Palm Jumeirah
+2,1,576000,81,1,7111,Downtown Dubai
+4,4,2400000,344,0,6976,The Lakes
+5,4,1536000,249,0,6168,Mohammed Bin Rashid City
+3,2,456000,110,0,4145,Jumeirah Village Circle
+3,2,1140000,106,1,10754,Jumeirah Beach Residence
+2,1,504000,70,0,7200,Dubai Marina
+3,2,1968000,130,0,15138,Palm Jumeirah
+2,1,411668,105,0,3920,Business Bay
+1,1,600000,77,0,7792,Dubai Harbour
+3,3,1296000,250,0,5184,Dubai Hills Estate
+2,1,374400,79,0,4739,Yas Island
+5,4,5112000,454,0,11259,Downtown Dubai
+1,0,215760,43,0,5017,Yas Island
+2,1,151200,75,0,2016,Dubai Land
+2,1,163200,74,0,2205,Dubai Land
+3,2,840000,103,0,8155,Downtown Dubai
+2,2,2376000,171,0,13894,Downtown Dubai
+2,1,312000,121,0,2578,Al Furjan
+6,5,3600000,1589,0,2265,Al Barsha
+5,3,792000,261,0,3034,DAMAC Hills
+3,2,864000,152,0,5684,Downtown Dubai
+3,3,1440000,163,0,8834,Downtown Dubai
+1,1,240000,61,1,3934,Jumeirah Village Circle
+3,3,660000,189,0,3492,Arabian Ranches 3
+2,2,1728000,108,1,16000,Dubai Harbour
+4,3,878634,242,0,3630,Jebel Ali
+5,4,1440000,599,0,2404,Yas Island
+3,3,792000,135,0,5866,Mohammed Bin Rashid City
+3,3,276000,153,0,1803,Dubai Land
+2,1,196800,75,0,2624,Jumeirah Village Triangle
+1,1,264000,43,0,6139,Business Bay
+1,1,252000,48,0,5250,Jumeirah Village Circle
+1,1,312000,80,0,3900,Dubai Marina
+2,1,192000,103,1,1864,Jumeirah Village Circle
+4,4,876000,282,0,3106,Dubai Land
+1,0,134400,49,0,2742,Arjan
+1,0,132000,40,1,3300,Dubai South (Dubai World Central)
+4,3,2520000,509,0,4950,Jumeirah Park
+2,1,299402,85,0,3522,Arjan
+1,0,138000,41,1,3365,Jumeirah Village Circle
+1,1,174960,59,0,2965,Town Square
+1,0,157224,40,0,3930,Jumeirah Village Circle
+2,1,187197,75,0,2495,Al Reem Island
+1,0,86400,34,0,2541,Dubai Production City (IMPZ)
+4,4,1728000,587,0,2943,Al Furjan
+3,2,480000,120,0,4000,Dubai Studio City
+2,2,1356000,168,0,8071,Dubai Harbour
+1,2,432000,67,0,6447,Dubai Hills Estate
+2,2,1392000,155,0,8980,Palm Jumeirah
+2,2,403974,120,1,3366,Arjan
+1,2,420000,70,0,6000,Dubai Hills Estate
+3,3,2520000,234,0,10769,Jumeirah
+6,6,4319760,1393,1,3101,Umm Al Sheif
+5,4,8880000,764,0,11623,Downtown Dubai
+2,1,434400,78,0,5569,Dubai Hills Estate
+2,1,384000,90,0,4266,Jumeirah Lake Towers
+3,2,720000,175,1,4114,Palm Jumeirah
+7,6,7920000,1375,0,5760,Al Barari
+1,1,156000,48,0,3250,Jumeirah Village Circle
+1,0,114960,30,1,3832,Jumeirah Village Circle
+2,1,411360,74,0,5558,Dubai Hills Estate
+4,2,781885,126,0,6205,Dubai Hills Estate
+3,2,734267,118,0,6222,Dubai Hills Estate
+3,2,738960,132,0,5598,Dubai Hills Estate
+4,3,1320000,200,0,6600,Dubai Creek Harbour (The Lagoons)
+2,2,1283973,113,1,11362,Downtown Dubai
+2,1,690933,70,1,9870,Dubai Creek Harbour (The Lagoons)
+6,4,1679997,613,0,2740,Yas Island
+4,3,623976,295,0,2115,Yas Island
+1,1,164400,55,1,2989,Dubai Land
+3,2,1056000,818,0,1290,Jumeirah Village Circle
+6,5,4380000,784,0,5586,Mohammed Bin Rashid City
+7,5,6000000,745,0,8053,Mohammed Bin Rashid City
+1,1,479999,82,1,5853,Business Bay
+3,2,228000,137,0,1664,Dubai Sports City
+2,1,186000,88,0,2113,Dubai Sports City
+3,3,732000,210,0,3485,Dubai Land
+2,3,624000,178,0,3505,Al Raha Beach
+3,3,1080000,125,1,8640,Downtown Dubai
+2,1,384000,66,1,5818,Dubai Marina
+6,5,768000,219,0,3506,Damac Lagoons
+2,1,778358,66,0,11793,Dubai Marina
+6,5,1920000,756,0,2539,Green Community
+1,1,162000,44,0,3681,Town Square
+4,3,1129200,293,0,3853,Jumeirah Golf Estates
+2,1,408000,82,1,4975,Jumeirah Lake Towers
+1,0,124800,41,0,3043,Rukan
+3,2,582936,118,0,4940,DIFC
+5,4,792000,368,0,2152,Dubai South (Dubai World Central)
+1,1,163200,90,0,1813,Jumeirah Village Circle
+3,2,588000,110,0,5345,Dubai Marina
+1,0,127200,59,0,2155,Dubai Sports City
+1,1,600000,76,1,7894,Jumeirah
+1,1,540000,77,1,7012,Jumeirah
+2,1,408000,71,0,5746,Mohammed Bin Rashid City
+4,4,1188000,316,0,3759,Tilal Al Ghaf
+6,6,1680000,449,0,3741,Damac Lagoons
+2,1,348000,69,0,5043,Dubai Marina
+2,2,516000,121,0,4264,DIFC
+5,3,2184000,187,1,11679,Downtown Dubai
+1,1,180000,58,0,3103,Town Square
+2,1,396000,145,1,2731,Jumeirah Lake Towers
+2,1,348000,118,0,2949,Jumeirah Village Circle
+6,5,3704400,748,0,4952,Jumeirah Golf Estates
+2,1,624000,71,0,8788,Downtown Dubai
+6,5,2922000,615,0,4751,Jumeirah Golf Estates
+1,2,288000,72,0,4000,Wasl Gate
+5,4,960000,293,0,3276,Meydan
+1,0,576000,33,1,17454,Dubai Marina
+3,3,465600,140,1,3325,Jumeirah Lake Towers
+3,2,708000,100,0,7080,Downtown Dubai
+4,3,1129200,293,0,3853,Jumeirah Golf Estates
+7,7,13200000,976,0,13524,Jumeirah
+3,2,1440000,115,0,12521,Dubai Harbour
+4,3,1032000,204,0,5058,Jumeirah Golf Estates
+3,2,1008000,177,1,5694,Dubai Marina
+2,2,1368000,107,0,12785,Dubai Harbour
+2,1,216000,95,1,2273,Dubai Sports City
+4,3,13680000,950,1,14400,Palm Jumeirah
+4,3,1044000,203,0,5142,Jumeirah Golf Estates
+1,0,264000,36,1,7333,Business Bay
+5,4,10800000,833,1,12965,Palm Jumeirah
+4,3,668400,168,0,3978,Yas Island
+5,4,1536000,460,0,3339,Arabian Ranches 3
+4,3,600000,145,0,4137,Dubai South (Dubai World Central)
+3,3,816000,212,0,3849,Mohammed Bin Rashid City
+4,4,1116000,300,0,3720,Arabian Ranches 3
+3,3,441600,126,0,3504,Al Reem Island
+2,2,1029600,134,0,7683,Zabeel
+1,1,597120,70,0,8530,Zabeel
+4,2,742800,138,0,5382,Mohammed Bin Rashid City
+2,1,888000,75,0,11840,Dubai Harbour
+3,2,840000,116,1,7241,Downtown Dubai
+1,0,203880,41,0,4972,Arjan
+3,2,319200,100,0,3192,Yas Island
+1,1,158400,62,0,2554,Dubai Studio City
+6,5,2136000,656,0,3256,Jebel Ali
+5,4,3120000,579,1,5388,Jumeirah Beach Residence
+3,2,348000,102,0,3411,Dubai Land
+2,1,264000,71,1,3718,Al Furjan
+3,2,825600,135,0,6115,Mohammed Bin Rashid City
+2,1,180000,81,0,2222,Arjan
+4,3,10200000,324,0,31481,Palm Jumeirah
+4,4,1044000,368,0,2836,Al Furjan
+2,1,392064,105,0,3733,Business Bay
+3,2,1476000,128,1,11531,Downtown Dubai
+6,4,2136000,363,0,5884,Mohammed Bin Rashid City
+4,3,2064000,165,1,12509,Downtown Dubai
+4,3,8520000,274,1,31094,Jumeirah
+3,3,588000,192,0,3062,Town Square
+2,1,455760,63,0,7234,Dubai Marina
+2,1,288000,75,1,3840,Business Bay
+1,1,239999,57,1,4210,Business Bay
+1,1,348000,51,0,6823,Ras Al Khor
+2,2,787200,112,0,7028,Downtown Dubai
+2,1,213600,96,0,2225,Motor City
+4,3,744000,211,0,3526,Dubai Land
+5,3,1200000,293,0,4095,Jumeirah Golf Estates
+2,2,220800,79,0,2794,Arjan
+2,1,192000,68,0,2823,Dubai Sports City
+3,2,2160000,185,0,11675,Saadiyat Island
+1,0,134400,27,0,4977,Meydan
+3,3,1644000,189,0,8698,Dubai Harbour
+2,2,525868,123,1,4275,Al Satwa
+2,2,252000,54,1,4666,Meydan
+2,1,331200,54,0,6133,Meydan
+5,4,5760000,455,0,12659,Palm Jumeirah
+1,0,135600,88,0,1540,Jumeirah Village Circle
+3,2,264000,144,1,1833,Dubai Investment Park (DIP)
+3,2,624000,129,1,4837,Jumeirah Beach Residence
+2,1,228000,68,0,3352,Jumeirah Village Circle
+1,1,208800,44,0,4745,Meydan
+1,0,180000,43,1,4186,Dubai Marina
+2,2,249600,112,0,2228,Dubai Sports City
+1,1,384000,64,1,6000,Business Bay
+3,2,388799,98,1,3967,Jumeirah Village Circle
+3,3,648000,163,0,3975,DAMAC Hills
+1,0,144000,29,0,4965,Meydan
+2,2,696000,121,0,5752,Old Town
+2,1,285600,68,1,4200,Jumeirah Village Triangle
+2,1,411512,105,0,3919,Business Bay
+2,1,367334,105,0,3498,Business Bay
+2,1,364168,105,0,3468,Business Bay
+2,1,516000,85,0,6070,Old Town
+2,1,420000,69,0,6086,Mohammed Bin Rashid City
+3,2,420000,111,0,3783,Jumeirah Village Circle
+2,1,204000,53,0,3849,Jumeirah Village Circle
+7,4,888000,389,0,2282,Al Shamkha
+2,1,138000,58,0,2379,Jumeirah Village Circle
+1,0,130800,53,1,2467,Jumeirah Village Circle
+1,0,96000,40,1,2400,Dubai Sports City
+4,4,2040000,300,0,6800,Dubai Hills Estate
+2,2,816000,136,1,6000,Dubai Creek Harbour (The Lagoons)
+3,2,1008000,194,0,5195,Dubai Marina
+2,1,156000,73,0,2136,Remraam
+3,2,840000,110,0,7636,Dubai Creek Harbour (The Lagoons)
+6,4,1224000,343,0,3568,Mohammed Bin Rashid City
+2,1,236400,70,0,3377,Dubai Marina
+2,2,720000,136,0,5294,Jumeirah Beach Residence
+3,3,444000,141,1,3148,Jumeirah Lake Towers
+4,2,2520000,209,0,12057,Saadiyat Island
+3,2,864000,109,0,7926,Dubai Marina
+5,3,792000,198,1,4000,Al Muhaisnah
+1,1,288000,44,0,6545,Business Bay
+3,2,1104000,235,1,4697,Umm Suqeim
+3,4,624000,223,0,2798,Dubai South (Dubai World Central)
+1,1,172800,89,0,1941,Discovery Gardens
+2,1,192000,143,0,1342,Dubai Sports City
+2,1,504000,87,1,5793,Business Bay
+1,1,312000,58,1,5379,Business Bay
+2,1,269280,59,1,4564,Business Bay
+4,3,2160000,163,0,13251,Dubai Harbour
+2,2,1608000,108,1,14888,Dubai Harbour
+2,2,1392000,100,1,13920,Dubai Harbour
+1,1,406824,67,0,6072,Mohammed Bin Rashid City
+2,1,424017,113,0,3752,Arjan
+3,2,960000,126,1,7619,Dubai Hills Estate
+1,0,336000,44,0,7636,Dubai Marina
+5,3,468000,174,1,2689,Damac Hills 2
+4,4,684000,257,0,2661,The Valley
+1,0,108000,42,0,2571,Al Warsan
+2,2,364800,132,0,2763,Jumeirah Village Circle
+6,4,1200000,501,0,2395,Jumeirah Village Circle
+1,1,288000,45,1,6400,Mohammed Bin Rashid City
+1,0,199200,48,0,4150,Al Reem Island
+3,2,264000,139,0,1899,Remraam
+2,1,155760,70,0,2225,Remraam
+2,1,552000,81,0,6814,Mohammed Bin Rashid City
+1,0,168000,49,0,3428,Jumeirah Village Circle
+4,3,360000,112,0,3214,Damac Hills 2
+6,5,612000,273,0,2241,Al Reef
+5,4,960000,187,1,5133,Meydan
+2,2,175200,103,0,1700,Al Reef
+3,3,792000,148,1,5351,Dubai Marina
+1,0,122400,40,1,3060,Dubai Sports City
+3,3,312000,112,0,2785,Damac Hills 2
+3,3,564000,190,0,2968,Al Jaddaf
+1,0,177600,38,0,4673,Jumeirah Village Circle
+2,1,768000,87,0,8827,Dubai Media City
+5,4,1440000,327,0,4403,Jumeirah Islands
+2,2,300000,90,0,3333,Jumeirah Village Circle
+2,2,720000,110,0,6545,Dubai Creek Harbour (The Lagoons)
+2,1,408000,72,0,5666,Jumeirah Lake Towers
+2,2,1103760,116,0,9515,Downtown Dubai
+1,0,120000,33,1,3636,Yas Island
+1,0,175200,53,0,3305,Saadiyat Island
+1,1,147600,78,0,1892,Dubai Land
+2,1,384000,66,0,5818,Dubai Marina
+5,4,1020000,224,0,4553,Al Furjan
+1,0,148800,44,0,3381,Arjan
+6,6,1200000,750,0,1600,Living Legends
+3,2,372000,138,0,2695,Al Reem Island
+3,2,4200000,241,0,17427,Palm Jumeirah
+1,1,312000,56,0,5571,Mohammed Bin Rashid City
+2,1,336000,77,1,4363,Business Bay
+1,1,456000,64,0,7125,Dubai Creek Harbour (The Lagoons)
+4,3,1056000,204,0,5176,Jumeirah Golf Estates
+2,2,1032000,110,1,9381,Downtown Dubai
+2,1,180000,61,0,2950,Dubai Production City (IMPZ)
+3,3,1992000,145,1,13737,Downtown Dubai
+4,3,552000,173,0,3190,Town Square
+3,3,396000,112,0,3535,Damac Hills 2
+1,0,180000,43,1,4186,DAMAC Hills
+4,3,1248000,158,1,7898,Downtown Dubai
+2,1,152400,53,0,2875,Remraam
+7,4,3240000,441,0,7346,Saadiyat Island
+1,1,127200,57,0,2231,Dubai Land
+2,1,364030,105,0,3466,Business Bay
+2,3,324000,98,0,3306,Al Reem Island
+3,2,312000,91,0,3428,Jumeirah Village Circle
+2,1,804000,74,1,10864,Downtown Dubai
+3,2,960000,113,0,8495,Downtown Dubai
+3,3,1752000,144,1,12166,Downtown Dubai
+4,3,1248000,129,0,9674,Downtown Dubai
+4,3,1704000,162,0,10518,Downtown Dubai
+2,2,288000,154,0,1870,Remraam
+3,3,1380000,241,0,5726,The Lakes
+6,4,888000,330,0,2690,Dubai South (Dubai World Central)
+3,2,504000,135,0,3733,DAMAC Hills
+3,2,636000,116,0,5482,Dubai Marina
+1,0,210000,40,1,5250,Jumeirah Village Triangle
+2,1,215999,87,0,2482,Al Reem Island
+1,0,288000,38,0,7578,Business Bay
+2,1,232800,88,0,2645,Al Reem Island
+1,1,321360,51,0,6301,Mohammed Bin Rashid City
+3,4,864000,229,0,3772,Dubai Land
+1,1,587976,77,0,7636,Jumeirah
+2,1,216000,68,0,3176,Al Reem Island
+4,3,2520000,180,0,14000,Dubai Harbour
+1,1,552000,85,0,6494,Dubai Hills Estate
+3,3,1008000,155,0,6503,Dubai Hills Estate
+4,4,672000,262,0,2564,Town Square
+5,4,1824000,418,0,4363,Tilal Al Ghaf
+3,2,562800,117,0,4810,Mohammed Bin Rashid City
+5,4,960000,354,0,2711,Motor City
+2,2,912000,120,0,7600,Dubai Creek Harbour (The Lagoons)
