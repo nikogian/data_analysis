@@ -1,0 +1,23 @@
+title           object
+region          object
+bathrooms        int64
+bedrooms         int64
+price            int64
+sizeMin          int64
+furnishing       int64
+price_per_m2     int64
+dtype: object
+Average Price: 1238989.97
+
+Model Performance:
+Mean Absolute Error (MAE): 564640.86
+Mean Squared Error (MSE): 1345870065553.57
+Root Mean Squared Error (RMSE): 1160116.40
+R-squared (R2): 0.58
+
+Feature Importance:
+      Feature    Coefficient
+3  furnishing  501614.233489
+0   bathrooms  120071.184681
+1    bedrooms   45971.566789
+2     sizeMin    5681.233935

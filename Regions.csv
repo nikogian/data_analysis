@@ -1,32 +1,32 @@
-Regions,Number of estates,Average price per sqm
-Arjan,74,3605
-Tilal Al Ghaf,40,5051
-Jumeirah Village Circle,182,3525
-Jumeirah Village Triangle,34,3978
-Palm Jumeirah,127,12287
-Al Reem Island,42,3108
-The Valley,35,3099
-Jumeirah,46,11714
-Dubai Marina,172,6222
-Damac Lagoons,34,3476
-Downtown Dubai,230,8813
-Jumeirah Lake Towers,86,4027
-Dubai Sports City,51,2894
-Yas Island,51,4045
-Jumeirah Beach Residence,61,8402
-Mohammed Bin Rashid City,170,5987
-Dubai Hills Estate,135,6584
-Meydan,91,5157
-Dubai Production City (IMPZ),30,2611
-Dubai Creek Harbour (The Lagoons),108,6908
-Town Square,53,3075
-Dubai Harbour,80,11108
-Jumeirah Golf Estates,43,5194
-DAMAC Hills,81,3780
-Al Furjan,93,3537
-Business Bay,159,5578
-Arabian Ranches 3,50,3736
-Umm Suqeim,31,7352
-Dubai Land,76,3039
-Damac Hills 2,53,2608
-Dubai South (Dubai World Central),69,3063
+Regions,Region_number,Number of estates,Average price per sqm
+Business Bay,5,159,5578
+Arjan,15,74,3605
+Damac Hills 2,19,53,2608
+Dubai Production City (IMPZ),31,30,2611
+Jumeirah Village Circle,2,182,3525
+Dubai Marina,3,172,6222
+Al Reem Island,25,42,3108
+Jumeirah Golf Estates,24,43,5194
+Dubai Land,14,76,3039
+Jumeirah Village Triangle,28,34,3978
+Dubai Harbour,13,80,11108
+Umm Suqeim,30,31,7352
+Jumeirah,23,46,11714
+Jumeirah Lake Towers,11,86,4027
+Arabian Ranches 3,22,50,3736
+The Valley,27,35,3099
+Dubai Sports City,21,51,2894
+Jumeirah Beach Residence,17,61,8402
+Palm Jumeirah,7,127,12287
+Downtown Dubai,1,230,8813
+Damac Lagoons,29,34,3476
+Meydan,10,91,5157
+Dubai South (Dubai World Central),16,69,3063
+Al Furjan,9,93,3537
+Town Square,18,53,3075
+Tilal Al Ghaf,26,40,5051
+Yas Island,20,51,4045
+Mohammed Bin Rashid City,4,170,5987
+Dubai Creek Harbour (The Lagoons),8,108,6908
+DAMAC Hills,12,81,3780
+Dubai Hills Estate,6,135,6584
