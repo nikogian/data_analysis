@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 #import seaborn as sns
 #import os
-
+#commit test
 
 df = pd.read_csv('uae_real_estate_2024.csv')
 # Elimination of non verified entries, and droping of non relevant columns
