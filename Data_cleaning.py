@@ -93,12 +93,16 @@ cols_new = df_new.columns.tolist()  # Get the list of column names
 cols_new.insert(1, cols_new.pop(cols_new.index('Region_number')))  # Move 'New_Index' to the second position
 df_new = df_new[cols_new]  # Reorder the DataFrame columns
 
+df_merged = pd.merge(df, df_new[['Regions', 'Region_number']], left_on='region', right_on='Regions')
+df_merged.drop(['Regions'], axis='columns', inplace=True)
+print(df_merged.head())
 
 print(df.dtypes)
 print(df_new.dtypes)
+print(df_merged.dtypes)
 
 df_new.to_csv('Regions.csv', index=False)  # index=False prevents writing row indices
 print('Regions.csv saved successfully!')
 
-df.to_csv('Clean_data.csv', index=False)
+df_merged.to_csv('Clean_data.csv', index=False)
 print('Clean_data.csv saved successfully!')

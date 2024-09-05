@@ -9,10 +9,12 @@ df = pd.read_csv('Clean_data.csv')
 
 print(df.dtypes)
 
+df_no_outliers = df[(df['bedrooms'] <= 6) & (df['bathrooms'] <= 6)]
+
 # Separate the features (X) and the target variable (y)
 # Assuming 'Price' is the target variable and the rest are features
-X = df.drop(columns=['price', 'title', 'region', 'price_per_m2'])
-y = df['price']
+X = df_no_outliers.drop(columns=['title', 'region', 'price', 'price_per_m2'])
+y = df_no_outliers['price']
 
 # Split the data into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -33,8 +35,8 @@ rmse = np.sqrt(mse)
 r2 = r2_score(y_test, y_pred)
 
 # Average price calculation for comparison with mae
-average_price = df['price'].mean()
-print(f"Average Price: {average_price:.2f}")
+average_price = df_no_outliers['price'].mean()
+print(f"Average Price per m2: {average_price:.2f}")
 
 
 # Display evaluation metrics
