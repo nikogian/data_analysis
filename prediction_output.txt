@@ -1,3 +1,5 @@
+Prediction 1:
+
 title            object
 region           object
 bathrooms         int64
@@ -23,3 +25,32 @@ Feature Importance:
 1       bedrooms  -25409.716405
 4  Region_number  -26440.950599
 0      bathrooms  -39308.857594
+
+
+
+Prediction 2 for Business Bay area only:
+
+title            object
+region           object
+bathrooms         int64
+bedrooms          int64
+price             int64
+sizeMin           int64
+furnishing        int64
+price_per_m2      int64
+Region_number     int64
+dtype: object
+Average Price: 426185.80
+
+Model Performance:
+Mean Absolute Error (MAE): 91853.32
+Mean Squared Error (MSE): 13405080804.27
+Root Mean Squared Error (RMSE): 115780.31
+R-squared (R2): 0.58
+
+Feature Importance:
+      Feature   Coefficient
+0   bathrooms  27446.466184
+1    bedrooms  24483.326918
+2     sizeMin   3260.303084
+3  furnishing -31178.301502
