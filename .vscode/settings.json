@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Test",
+            "group": "Gian",
+            "database": "${workspaceFolder:data_analysis}/real_estate.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
