@@ -3,8 +3,7 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "name": "Test",
-            "group": "Gian",
+            "name": "test",
             "database": "${workspaceFolder:data_analysis}/real_estate.db"
         }
     ],
