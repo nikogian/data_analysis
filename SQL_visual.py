@@ -9,7 +9,7 @@ def create_connection():
         connection = mysql.connector.connect(
             host="localhost",        # Server address (use 'localhost' for local database)
             user="root",    # MySQL username (e.g., 'root')
-            password="21317",# MySQL password
+            password="",# MySQL password
             database="mysql_real_estate" # The name of the database you want to connect to
         )
         
